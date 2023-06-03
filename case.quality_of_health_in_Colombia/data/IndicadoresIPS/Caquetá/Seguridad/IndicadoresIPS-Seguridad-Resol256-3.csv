@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/2/2023 12:17:29 AM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de hospitalización,18,Caquetá,00000,TOTAL,Total,N/A,1000,Tasa,201706,"32,00","16.289,00","1,96"
+Tasa de caída de pacientes en el servicio de hospitalización,18,Caquetá,00000,TOTAL,Total,N/A,1000,Tasa,201712,"13,00","18.199,00","0,71"
+Tasa de caída de pacientes en el servicio de hospitalización,18,Caquetá,00000,TOTAL,Total,N/A,1000,Tasa,201806,"12,00","8.086,00","1,48"
+Tasa de caída de pacientes en el servicio de hospitalización,18,Caquetá,00000,TOTAL,Total,N/A,1000,Tasa,201812,"29,00","60.665,00","0,48"
+Tasa de caída de pacientes en el servicio de hospitalización,18,Caquetá,00000,TOTAL,Total,N/A,1000,Tasa,201906,"29,00","68.507,00","0,42"
+Tasa de caída de pacientes en el servicio de hospitalización,18,Caquetá,00000,TOTAL,Total,N/A,1000,Tasa,201912,"22,00","67.289,00","0,33"
+Tasa de caída de pacientes en el servicio de hospitalización,18,Caquetá,00000,TOTAL,Total,N/A,1000,Tasa,202003,"11,00","37.147,00","0,30"
+Tasa de caída de pacientes en el servicio de hospitalización,18,Caquetá,00000,TOTAL,Total,N/A,1000,Tasa,202006,"12,00","52.995,00","0,23"
+Tasa de caída de pacientes en el servicio de hospitalización,18,Caquetá,00000,TOTAL,Total,N/A,1000,Tasa,202009,"13,00","20.319,00","0,64"
+Tasa de caída de pacientes en el servicio de hospitalización,18,Caquetá,00000,TOTAL,Total,N/A,1000,Tasa,202012,"11,00","296.679,00","0,04"
+Tasa de caída de pacientes en el servicio de hospitalización,18,Caquetá,00000,TOTAL,Total,N/A,1000,Tasa,202103,"15,00","19.460,00","0,77"
+Tasa de caída de pacientes en el servicio de hospitalización,18,Caquetá,00000,TOTAL,Total,N/A,1000,Tasa,202106,"25,00","20.553,00","1,22"
+Tasa de caída de pacientes en el servicio de hospitalización,18,Caquetá,00000,TOTAL,Total,N/A,1000,Tasa,202109,"10,00","34.031,00","0,29"
+Tasa de caída de pacientes en el servicio de hospitalización,18,Caquetá,00000,TOTAL,Total,N/A,1000,Tasa,202112,"12,00","33.471,00","0,36"
+Tasa de caída de pacientes en el servicio de hospitalización,18,Caquetá,00000,TOTAL,Total,N/A,1000,Tasa,202203,"28,00","33.588,00","0,83"
+Tasa de caída de pacientes en el servicio de hospitalización,18,Caquetá,00000,TOTAL,Total,N/A,1000,Tasa,202206,"26,00","31.677,00","0,82"
+Tasa de caída de pacientes en el servicio de hospitalización,18,Caquetá,00000,TOTAL,Total,N/A,1000,Tasa,202209,"30,00","47.012,00","0,64"
+Tasa de caída de pacientes en el servicio de hospitalización,18,Caquetá,00000,TOTAL,Total,N/A,1000,Tasa,202212,"22,00","23.691,00","0,93"
+

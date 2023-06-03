@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/1/2023 6:02:01 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de hospitalización,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,201706,"81,00","59.226,00","1,37"
+Tasa de caída de pacientes en el servicio de hospitalización,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,201712,"76,00","74.007,00","1,03"
+Tasa de caída de pacientes en el servicio de hospitalización,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,201806,"120,00","66.359,00","1,81"
+Tasa de caída de pacientes en el servicio de hospitalización,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,201812,"86,00","105.673,00","0,81"
+Tasa de caída de pacientes en el servicio de hospitalización,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,201906,"90,00","116.705,00","0,77"
+Tasa de caída de pacientes en el servicio de hospitalización,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,201912,"72,00","98.511,00","0,73"
+Tasa de caída de pacientes en el servicio de hospitalización,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202003,"34,00","65.264,00","0,52"
+Tasa de caída de pacientes en el servicio de hospitalización,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202006,"37,00","92.960,00","0,40"
+Tasa de caída de pacientes en el servicio de hospitalización,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202009,"48,00","36.220,00","1,33"
+Tasa de caída de pacientes en el servicio de hospitalización,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202012,"46,00","120.430,00","0,38"
+Tasa de caída de pacientes en el servicio de hospitalización,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202103,"44,00","18.552,00","2,37"
+Tasa de caída de pacientes en el servicio de hospitalización,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202106,"36,00","29.415,00","1,22"
+Tasa de caída de pacientes en el servicio de hospitalización,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202109,"34,00","47.444,00","0,72"
+Tasa de caída de pacientes en el servicio de hospitalización,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202112,"40,00","38.924,00","1,03"
+Tasa de caída de pacientes en el servicio de hospitalización,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202203,"21,00","29.958,00","0,70"
+Tasa de caída de pacientes en el servicio de hospitalización,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202206,"31,00","59.595,00","0,52"
+Tasa de caída de pacientes en el servicio de hospitalización,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202209,"46,00","66.701,00","0,69"
+Tasa de caída de pacientes en el servicio de hospitalización,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202212,"34,00","26.970,00","1,26"
+

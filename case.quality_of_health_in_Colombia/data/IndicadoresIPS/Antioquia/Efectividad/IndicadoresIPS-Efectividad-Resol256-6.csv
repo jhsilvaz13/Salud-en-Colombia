@@ -1,0 +1,11 @@
+﻿ExecutionTime
+4/1/2023 8:52:03 AM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox2
+"Proporción de personas con Diabetes Mellitus, estudiadas para Enfermedad Renal Crónica(ERC)",05,05 - Antioquia,00000,TOTAL,Total,100,Porcentaje,2016,"127.077,00","166.432,00","76,35"
+"Proporción de personas con Diabetes Mellitus, estudiadas para Enfermedad Renal Crónica(ERC)",05,05 - Antioquia,00000,TOTAL,Total,100,Porcentaje,2017,"134.530,00","176.507,00","76,22"
+"Proporción de personas con Diabetes Mellitus, estudiadas para Enfermedad Renal Crónica(ERC)",05,05 - Antioquia,00000,TOTAL,Total,100,Porcentaje,2018,"158.343,00","199.011,00","79,56"
+"Proporción de personas con Diabetes Mellitus, estudiadas para Enfermedad Renal Crónica(ERC)",05,05 - Antioquia,00000,TOTAL,Total,100,Porcentaje,2019,"71.885,00","180.499,00","39,83"
+"Proporción de personas con Diabetes Mellitus, estudiadas para Enfermedad Renal Crónica(ERC)",05,05 - Antioquia,00000,TOTAL,Total,100,Porcentaje,2020,"77.659,00","233.808,00","33,21"
+"Proporción de personas con Diabetes Mellitus, estudiadas para Enfermedad Renal Crónica(ERC)",05,05 - Antioquia,00000,TOTAL,Total,100,Porcentaje,2021,"197.079,00","270.687,00","72,81"
+

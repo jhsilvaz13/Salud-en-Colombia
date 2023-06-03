@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 11:19:50 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de hospitalización,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,201706,"1.072,00","929.992,00","1,15"
+Tasa de caída de pacientes en el servicio de hospitalización,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,201712,"982,00","1.016.247,00","0,97"
+Tasa de caída de pacientes en el servicio de hospitalización,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,201806,"1.081,00","728.401,00","1,48"
+Tasa de caída de pacientes en el servicio de hospitalización,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,201812,"1.367,00","1.102.656,00","1,24"
+Tasa de caída de pacientes en el servicio de hospitalización,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,201906,"1.300,00","1.154.999,00","1,13"
+Tasa de caída de pacientes en el servicio de hospitalización,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,201912,"1.026,00","1.207.132,00","0,85"
+Tasa de caída de pacientes en el servicio de hospitalización,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202003,"483,00","653.888,00","0,74"
+Tasa de caída de pacientes en el servicio de hospitalización,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202006,"625,00","1.208.436,00","0,52"
+Tasa de caída de pacientes en el servicio de hospitalización,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202009,"796,00","407.831,00","1,95"
+Tasa de caída de pacientes en el servicio de hospitalización,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202012,"629,00","936.233,00","0,67"
+Tasa de caída de pacientes en el servicio de hospitalización,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202103,"754,00","187.711,00","4,02"
+Tasa de caída de pacientes en el servicio de hospitalización,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202106,"816,00","182.450,00","4,47"
+Tasa de caída de pacientes en el servicio de hospitalización,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202109,"840,00","468.503,00","1,79"
+Tasa de caída de pacientes en el servicio de hospitalización,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202112,"724,00","442.486,00","1,64"
+Tasa de caída de pacientes en el servicio de hospitalización,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202203,"739,00","309.422,00","2,39"
+Tasa de caída de pacientes en el servicio de hospitalización,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202206,"580,00","445.419,00","1,30"
+Tasa de caída de pacientes en el servicio de hospitalización,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202209,"726,00","527.602,00","1,38"
+Tasa de caída de pacientes en el servicio de hospitalización,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202212,"753,00","238.393,00","3,16"
+

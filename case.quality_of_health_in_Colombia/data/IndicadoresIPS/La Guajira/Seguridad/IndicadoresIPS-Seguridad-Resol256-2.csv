@@ -1,0 +1,17 @@
+﻿ExecutionTime
+4/7/2023 9:55:26 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),44,44 - La Guajira,00000,TOTAL,Total,UCIA,1000,Tasa,2018,"6,00","3.343,00","1,79"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),44,44 - La Guajira,00000,TOTAL,Total,UCIA,1000,Tasa,2019,"6,00","3.757,00","1,60"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),44,44 - La Guajira,00000,TOTAL,Total,UCIA,1000,Tasa,2020,"0,00","1.023,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),44,44 - La Guajira,00000,TOTAL,Total,UCIA,1000,Tasa,2021,"0,00","4.469,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),44,44 - La Guajira,00000,TOTAL,Total,UCIN,1000,Tasa,2018,"0,00","754,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),44,44 - La Guajira,00000,TOTAL,Total,UCIN,1000,Tasa,2019,"0,00","1.559,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),44,44 - La Guajira,00000,TOTAL,Total,UCIN,1000,Tasa,2020,,,
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),44,44 - La Guajira,00000,TOTAL,Total,UCIN,1000,Tasa,2021,"0,00","1.568,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),44,44 - La Guajira,00000,TOTAL,Total,UCIP,1000,Tasa,2018,"0,00","386,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),44,44 - La Guajira,00000,TOTAL,Total,UCIP,1000,Tasa,2019,"0,00","540,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),44,44 - La Guajira,00000,TOTAL,Total,UCIP,1000,Tasa,2020,"0,00","221,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),44,44 - La Guajira,00000,TOTAL,Total,UCIP,1000,Tasa,2021,"0,00","171,00","0,00"
+

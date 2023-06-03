@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 11:03:35 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de urgencias,73,Tolima,00000,TOTAL,Total,N/A,1000,Tasa,201706,"21,00","37.848,00","0,55"
+Tasa de caída de pacientes en el servicio de urgencias,73,Tolima,00000,TOTAL,Total,N/A,1000,Tasa,201712,"26,00","41.523,00","0,63"
+Tasa de caída de pacientes en el servicio de urgencias,73,Tolima,00000,TOTAL,Total,N/A,1000,Tasa,201806,"38,00","94.298,00","0,40"
+Tasa de caída de pacientes en el servicio de urgencias,73,Tolima,00000,TOTAL,Total,N/A,1000,Tasa,201812,"67,00","47.919,00","1,40"
+Tasa de caída de pacientes en el servicio de urgencias,73,Tolima,00000,TOTAL,Total,N/A,1000,Tasa,201906,"61,00","45.922,00","1,33"
+Tasa de caída de pacientes en el servicio de urgencias,73,Tolima,00000,TOTAL,Total,N/A,1000,Tasa,201912,"63,00","41.854,00","1,51"
+Tasa de caída de pacientes en el servicio de urgencias,73,Tolima,00000,TOTAL,Total,N/A,1000,Tasa,202003,"28,00","27.871,00","1,00"
+Tasa de caída de pacientes en el servicio de urgencias,73,Tolima,00000,TOTAL,Total,N/A,1000,Tasa,202006,"31,00","22.509,00","1,38"
+Tasa de caída de pacientes en el servicio de urgencias,73,Tolima,00000,TOTAL,Total,N/A,1000,Tasa,202009,"27,00","15.234,00","1,77"
+Tasa de caída de pacientes en el servicio de urgencias,73,Tolima,00000,TOTAL,Total,N/A,1000,Tasa,202012,"26,00","16.033,00","1,62"
+Tasa de caída de pacientes en el servicio de urgencias,73,Tolima,00000,TOTAL,Total,N/A,1000,Tasa,202103,"15,00","7.450,00","2,01"
+Tasa de caída de pacientes en el servicio de urgencias,73,Tolima,00000,TOTAL,Total,N/A,1000,Tasa,202106,"21,00","11.131,00","1,89"
+Tasa de caída de pacientes en el servicio de urgencias,73,Tolima,00000,TOTAL,Total,N/A,1000,Tasa,202109,"26,00","15.738,00","1,65"
+Tasa de caída de pacientes en el servicio de urgencias,73,Tolima,00000,TOTAL,Total,N/A,1000,Tasa,202112,"11,00","13.746,00","0,80"
+Tasa de caída de pacientes en el servicio de urgencias,73,Tolima,00000,TOTAL,Total,N/A,1000,Tasa,202203,"17,00","6.836,00","2,49"
+Tasa de caída de pacientes en el servicio de urgencias,73,Tolima,00000,TOTAL,Total,N/A,1000,Tasa,202206,"24,00","11.107,00","2,16"
+Tasa de caída de pacientes en el servicio de urgencias,73,Tolima,00000,TOTAL,Total,N/A,1000,Tasa,202209,"24,00","17.605,00","1,36"
+Tasa de caída de pacientes en el servicio de urgencias,73,Tolima,00000,TOTAL,Total,N/A,1000,Tasa,202212,"25,00","12.254,00","2,04"
+

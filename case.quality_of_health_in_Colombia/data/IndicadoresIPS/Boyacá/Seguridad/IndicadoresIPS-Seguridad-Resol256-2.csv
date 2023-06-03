@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/1/2023 6:01:23 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),15,15 - Boyacá,00000,TOTAL,Total,UCIA,1000,Tasa,2016,"11,00","4.876,00","2,26"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),15,15 - Boyacá,00000,TOTAL,Total,UCIA,1000,Tasa,2017,"12,00","8.580,00","1,40"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),15,15 - Boyacá,00000,TOTAL,Total,UCIA,1000,Tasa,2018,"0,00","5.137,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),15,15 - Boyacá,00000,TOTAL,Total,UCIA,1000,Tasa,2019,"11,00","10.994,00","1,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),15,15 - Boyacá,00000,TOTAL,Total,UCIA,1000,Tasa,2020,"21,00","11.834,00","1,77"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),15,15 - Boyacá,00000,TOTAL,Total,UCIA,1000,Tasa,2021,"172,00","30.177,00","5,70"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),15,15 - Boyacá,00000,TOTAL,Total,UCIN,1000,Tasa,2016,"1,00","934,00","1,07"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),15,15 - Boyacá,00000,TOTAL,Total,UCIN,1000,Tasa,2017,"0,00","1.386,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),15,15 - Boyacá,00000,TOTAL,Total,UCIN,1000,Tasa,2018,"0,00","602,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),15,15 - Boyacá,00000,TOTAL,Total,UCIN,1000,Tasa,2019,"1,00","703,00","1,42"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),15,15 - Boyacá,00000,TOTAL,Total,UCIN,1000,Tasa,2020,"2,00","638,00","3,13"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),15,15 - Boyacá,00000,TOTAL,Total,UCIN,1000,Tasa,2021,"1,00","1.040,00","0,96"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),15,15 - Boyacá,00000,TOTAL,Total,UCIP,1000,Tasa,2016,"3,00","1.129,00","2,66"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),15,15 - Boyacá,00000,TOTAL,Total,UCIP,1000,Tasa,2017,"1,00","1.738,00","0,58"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),15,15 - Boyacá,00000,TOTAL,Total,UCIP,1000,Tasa,2018,,,
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),15,15 - Boyacá,00000,TOTAL,Total,UCIP,1000,Tasa,2019,"2,00","1.305,00","1,53"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),15,15 - Boyacá,00000,TOTAL,Total,UCIP,1000,Tasa,2020,"3,00","870,00","3,45"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),15,15 - Boyacá,00000,TOTAL,Total,UCIP,1000,Tasa,2021,"0,00","1.230,00","0,00"
+

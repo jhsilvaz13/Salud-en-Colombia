@@ -1,0 +1,11 @@
+﻿ExecutionTime
+4/1/2023 8:51:46 AM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox2
+"Proporción de personas con Hipertensión Arterial (HTA), estudiadas para Enfermedad Renal Crónica(ERC)",05,05 - Antioquia,00000,TOTAL,Total,100,Porcentaje,2016,"427.887,00","626.909,00","68,25"
+"Proporción de personas con Hipertensión Arterial (HTA), estudiadas para Enfermedad Renal Crónica(ERC)",05,05 - Antioquia,00000,TOTAL,Total,100,Porcentaje,2017,"452.121,00","649.140,00","69,65"
+"Proporción de personas con Hipertensión Arterial (HTA), estudiadas para Enfermedad Renal Crónica(ERC)",05,05 - Antioquia,00000,TOTAL,Total,100,Porcentaje,2018,"487.937,00","663.551,00","73,53"
+"Proporción de personas con Hipertensión Arterial (HTA), estudiadas para Enfermedad Renal Crónica(ERC)",05,05 - Antioquia,00000,TOTAL,Total,100,Porcentaje,2019,"179.805,00","614.838,00","29,24"
+"Proporción de personas con Hipertensión Arterial (HTA), estudiadas para Enfermedad Renal Crónica(ERC)",05,05 - Antioquia,00000,TOTAL,Total,100,Porcentaje,2020,"209.565,00","747.549,00","28,03"
+"Proporción de personas con Hipertensión Arterial (HTA), estudiadas para Enfermedad Renal Crónica(ERC)",05,05 - Antioquia,00000,TOTAL,Total,100,Porcentaje,2021,"521.723,00","824.839,00","63,25"
+

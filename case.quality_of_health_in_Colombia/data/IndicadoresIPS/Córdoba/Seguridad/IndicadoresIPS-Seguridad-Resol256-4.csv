@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 9:37:49 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de urgencias,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,201706,"41,00","95.642,00","0,43"
+Tasa de caída de pacientes en el servicio de urgencias,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,201712,"38,00","106.351,00","0,36"
+Tasa de caída de pacientes en el servicio de urgencias,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,201806,"22,00","197.963,00","0,11"
+Tasa de caída de pacientes en el servicio de urgencias,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,201812,"32,00","125.203,00","0,26"
+Tasa de caída de pacientes en el servicio de urgencias,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,201906,"39,00","95.020,00","0,41"
+Tasa de caída de pacientes en el servicio de urgencias,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,201912,"35,00","96.827,00","0,36"
+Tasa de caída de pacientes en el servicio de urgencias,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202003,"17,00","67.957,00","0,25"
+Tasa de caída de pacientes en el servicio de urgencias,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202006,"10,00","46.752,00","0,21"
+Tasa de caída de pacientes en el servicio de urgencias,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202009,"22,00","33.664,00","0,65"
+Tasa de caída de pacientes en el servicio de urgencias,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202012,"24,00","45.950,00","0,52"
+Tasa de caída de pacientes en el servicio de urgencias,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202103,"17,00","37.230,00","0,46"
+Tasa de caída de pacientes en el servicio de urgencias,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202106,"18,00","31.156,00","0,58"
+Tasa de caída de pacientes en el servicio de urgencias,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202109,"17,00","57.039,00","0,30"
+Tasa de caída de pacientes en el servicio de urgencias,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202112,"19,00","38.554,00","0,49"
+Tasa de caída de pacientes en el servicio de urgencias,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202203,"34,00","25.648,00","1,33"
+Tasa de caída de pacientes en el servicio de urgencias,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202206,"24,00","65.503,00","0,37"
+Tasa de caída de pacientes en el servicio de urgencias,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202209,"18,00","108.505,00","0,17"
+Tasa de caída de pacientes en el servicio de urgencias,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202212,"20,00","73.212,00","0,27"
+

@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 11:18:18 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de Incidencia de Infección del Torrente Sanguíneo Asociada a Catéter (ITS- AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIA,1000,Tasa,2016,"242,00","72.862,00","3,32"
+Tasa de Incidencia de Infección del Torrente Sanguíneo Asociada a Catéter (ITS- AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIA,1000,Tasa,2017,"525,00","149.401,00","3,51"
+Tasa de Incidencia de Infección del Torrente Sanguíneo Asociada a Catéter (ITS- AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIA,1000,Tasa,2018,"368,00","159.943,00","2,30"
+Tasa de Incidencia de Infección del Torrente Sanguíneo Asociada a Catéter (ITS- AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIA,1000,Tasa,2019,"389,00","167.003,00","2,33"
+Tasa de Incidencia de Infección del Torrente Sanguíneo Asociada a Catéter (ITS- AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIA,1000,Tasa,2020,"714,00","211.282,00","3,38"
+Tasa de Incidencia de Infección del Torrente Sanguíneo Asociada a Catéter (ITS- AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIA,1000,Tasa,2021,"575,00","343.736,00","1,67"
+Tasa de Incidencia de Infección del Torrente Sanguíneo Asociada a Catéter (ITS- AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIN,1000,Tasa,2016,"77,00","22.488,00","3,42"
+Tasa de Incidencia de Infección del Torrente Sanguíneo Asociada a Catéter (ITS- AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIN,1000,Tasa,2017,"73,00","44.551,00","1,64"
+Tasa de Incidencia de Infección del Torrente Sanguíneo Asociada a Catéter (ITS- AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIN,1000,Tasa,2018,"22,00","44.349,00","0,50"
+Tasa de Incidencia de Infección del Torrente Sanguíneo Asociada a Catéter (ITS- AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIN,1000,Tasa,2019,"169,00","47.072,00","3,59"
+Tasa de Incidencia de Infección del Torrente Sanguíneo Asociada a Catéter (ITS- AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIN,1000,Tasa,2020,"102,00","35.406,00","2,88"
+Tasa de Incidencia de Infección del Torrente Sanguíneo Asociada a Catéter (ITS- AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIN,1000,Tasa,2021,"128,00","49.985,00","2,56"
+Tasa de Incidencia de Infección del Torrente Sanguíneo Asociada a Catéter (ITS- AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIP,1000,Tasa,2016,"45,00","13.851,00","3,25"
+Tasa de Incidencia de Infección del Torrente Sanguíneo Asociada a Catéter (ITS- AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIP,1000,Tasa,2017,"126,00","28.975,00","4,35"
+Tasa de Incidencia de Infección del Torrente Sanguíneo Asociada a Catéter (ITS- AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIP,1000,Tasa,2018,"166,00","29.532,00","5,62"
+Tasa de Incidencia de Infección del Torrente Sanguíneo Asociada a Catéter (ITS- AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIP,1000,Tasa,2019,"134,00","36.290,00","3,69"
+Tasa de Incidencia de Infección del Torrente Sanguíneo Asociada a Catéter (ITS- AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIP,1000,Tasa,2020,"43,00","21.167,00","2,03"
+Tasa de Incidencia de Infección del Torrente Sanguíneo Asociada a Catéter (ITS- AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIP,1000,Tasa,2021,"95,00","33.801,00","2,81"
+

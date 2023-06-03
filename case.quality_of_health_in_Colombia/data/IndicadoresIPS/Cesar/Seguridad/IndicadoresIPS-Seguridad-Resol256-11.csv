@@ -1,0 +1,16 @@
+﻿ExecutionTime
+4/2/2023 10:52:29 AM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Proporción de reingreso de pacientes al servicio de Urgencias en menos de 72 horas.,20,20 - Cesar,00000,TOTAL,Total,N/A,100,Porcentaje,201706,"752,00","44.557,00","1,69"
+Proporción de reingreso de pacientes al servicio de Urgencias en menos de 72 horas.,20,20 - Cesar,00000,TOTAL,Total,N/A,100,Porcentaje,201712,"658,00","65.001,00","1,01"
+Proporción de reingreso de pacientes al servicio de Urgencias en menos de 72 horas.,20,20 - Cesar,00000,TOTAL,Total,N/A,100,Porcentaje,201806,"712,00","65.041,00","1,09"
+Proporción de reingreso de pacientes al servicio de Urgencias en menos de 72 horas.,20,20 - Cesar,00000,TOTAL,Total,N/A,100,Porcentaje,201812,"680,00","61.513,00","1,11"
+Proporción de reingreso de pacientes al servicio de Urgencias en menos de 72 horas.,20,20 - Cesar,00000,TOTAL,Total,N/A,100,Porcentaje,201906,"993,00","72.924,00","1,36"
+Proporción de reingreso de pacientes al servicio de Urgencias en menos de 72 horas.,20,20 - Cesar,00000,TOTAL,Total,N/A,100,Porcentaje,201912,"1.070,00","82.456,00","1,30"
+Proporción de reingreso de pacientes al servicio de Urgencias en menos de 72 horas.,20,20 - Cesar,00000,TOTAL,Total,N/A,100,Porcentaje,202006,"798,00","75.072,00","1,06"
+Proporción de reingreso de pacientes al servicio de Urgencias en menos de 72 horas.,20,20 - Cesar,00000,TOTAL,Total,N/A,100,Porcentaje,202012,"585,00","62.513,00","0,94"
+Proporción de reingreso de pacientes al servicio de Urgencias en menos de 72 horas.,20,20 - Cesar,00000,TOTAL,Total,N/A,100,Porcentaje,202106,"541,00","62.598,00","0,86"
+Proporción de reingreso de pacientes al servicio de Urgencias en menos de 72 horas.,20,20 - Cesar,00000,TOTAL,Total,N/A,100,Porcentaje,202112,"472,00","52.111,00","0,91"
+Proporción de reingreso de pacientes al servicio de Urgencias en menos de 72 horas.,20,20 - Cesar,00000,TOTAL,Total,N/A,100,Porcentaje,202206,"435,00","59.211,00","0,73"
+

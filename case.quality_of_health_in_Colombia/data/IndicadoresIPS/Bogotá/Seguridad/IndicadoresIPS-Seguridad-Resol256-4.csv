@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 11:19:59 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de urgencias,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,201706,"243,00","307.389,00","0,79"
+Tasa de caída de pacientes en el servicio de urgencias,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,201712,"262,00","311.529,00","0,84"
+Tasa de caída de pacientes en el servicio de urgencias,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,201806,"286,00","655.986,00","0,44"
+Tasa de caída de pacientes en el servicio de urgencias,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,201812,"349,00","320.912,00","1,09"
+Tasa de caída de pacientes en el servicio de urgencias,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,201906,"282,00","312.100,00","0,90"
+Tasa de caída de pacientes en el servicio de urgencias,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,201912,"303,00","288.244,00","1,05"
+Tasa de caída de pacientes en el servicio de urgencias,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202003,"119,00","187.547,00","0,63"
+Tasa de caída de pacientes en el servicio de urgencias,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202006,"160,00","82.941,00","1,93"
+Tasa de caída de pacientes en el servicio de urgencias,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202009,"170,00","77.679,00","2,19"
+Tasa de caída de pacientes en el servicio de urgencias,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202012,"151,00","96.327,00","1,57"
+Tasa de caída de pacientes en el servicio de urgencias,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202103,"187,00","65.802,00","2,84"
+Tasa de caída de pacientes en el servicio de urgencias,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202106,"287,00","65.191,00","4,40"
+Tasa de caída de pacientes en el servicio de urgencias,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202109,"204,00","112.514,00","1,81"
+Tasa de caída de pacientes en el servicio de urgencias,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202112,"231,00","100.747,00","2,29"
+Tasa de caída de pacientes en el servicio de urgencias,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202203,"217,00","67.594,00","3,21"
+Tasa de caída de pacientes en el servicio de urgencias,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202206,"202,00","110.123,00","1,83"
+Tasa de caída de pacientes en el servicio de urgencias,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202209,"293,00","120.333,00","2,43"
+Tasa de caída de pacientes en el servicio de urgencias,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Tasa,202212,"206,00","94.987,00","2,17"
+

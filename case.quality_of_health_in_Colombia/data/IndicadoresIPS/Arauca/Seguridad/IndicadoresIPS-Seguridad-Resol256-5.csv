@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/1/2023 10:16:54 AM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de consulta externa,81,Arauca,00000,TOTAL,Total,N/A,1000,Tasa,201706,"4,00","72.566,00","0,06"
+Tasa de caída de pacientes en el servicio de consulta externa,81,Arauca,00000,TOTAL,Total,N/A,1000,Tasa,201712,"12,00","82.393,00","0,15"
+Tasa de caída de pacientes en el servicio de consulta externa,81,Arauca,00000,TOTAL,Total,N/A,1000,Tasa,201806,"5,00","28.512,00","0,18"
+Tasa de caída de pacientes en el servicio de consulta externa,81,Arauca,00000,TOTAL,Total,N/A,1000,Tasa,201812,"1,00","76.488,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,81,Arauca,00000,TOTAL,Total,N/A,1000,Tasa,201906,"1,00","119.725,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,81,Arauca,00000,TOTAL,Total,N/A,1000,Tasa,201912,"6,00","115.219,00","0,05"
+Tasa de caída de pacientes en el servicio de consulta externa,81,Arauca,00000,TOTAL,Total,N/A,1000,Tasa,202003,"3,00","72.563,00","0,04"
+Tasa de caída de pacientes en el servicio de consulta externa,81,Arauca,00000,TOTAL,Total,N/A,1000,Tasa,202006,"1,00","47.016,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,81,Arauca,00000,TOTAL,Total,N/A,1000,Tasa,202009,"0,00","36.513,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,81,Arauca,00000,TOTAL,Total,N/A,1000,Tasa,202012,"1,00","51.366,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,81,Arauca,00000,TOTAL,Total,N/A,1000,Tasa,202103,"3,00","19.657,00","0,15"
+Tasa de caída de pacientes en el servicio de consulta externa,81,Arauca,00000,TOTAL,Total,N/A,1000,Tasa,202106,"2,00","52.609,00","0,04"
+Tasa de caída de pacientes en el servicio de consulta externa,81,Arauca,00000,TOTAL,Total,N/A,1000,Tasa,202109,"0,00","74.038,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,81,Arauca,00000,TOTAL,Total,N/A,1000,Tasa,202112,"3,00","24.694,00","0,12"
+Tasa de caída de pacientes en el servicio de consulta externa,81,Arauca,00000,TOTAL,Total,N/A,1000,Tasa,202203,"1,00","15.266,00","0,07"
+Tasa de caída de pacientes en el servicio de consulta externa,81,Arauca,00000,TOTAL,Total,N/A,1000,Tasa,202206,"2,00","91.987,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,81,Arauca,00000,TOTAL,Total,N/A,1000,Tasa,202209,"0,00","96.539,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,81,Arauca,00000,TOTAL,Total,N/A,1000,Tasa,202212,"1,00","97.698,00","0,01"
+

@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/1/2023 5:46:14 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de urgencias,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,201706,"73,00","105.656,00","0,69"
+Tasa de caída de pacientes en el servicio de urgencias,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,201712,"42,00","124.584,00","0,34"
+Tasa de caída de pacientes en el servicio de urgencias,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,201806,"77,00","213.757,00","0,36"
+Tasa de caída de pacientes en el servicio de urgencias,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,201812,"51,00","114.487,00","0,45"
+Tasa de caída de pacientes en el servicio de urgencias,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,201906,"55,00","115.101,00","0,48"
+Tasa de caída de pacientes en el servicio de urgencias,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,201912,"84,00","113.274,00","0,74"
+Tasa de caída de pacientes en el servicio de urgencias,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202003,"36,00","55.696,00","0,65"
+Tasa de caída de pacientes en el servicio de urgencias,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202006,"20,00","25.938,00","0,77"
+Tasa de caída de pacientes en el servicio de urgencias,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202009,"32,00","20.799,00","1,54"
+Tasa de caída de pacientes en el servicio de urgencias,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202012,"28,00","33.190,00","0,84"
+Tasa de caída de pacientes en el servicio de urgencias,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202103,"27,00","38.268,00","0,71"
+Tasa de caída de pacientes en el servicio de urgencias,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202106,"25,00","28.120,00","0,89"
+Tasa de caída de pacientes en el servicio de urgencias,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202109,"30,00","46.031,00","0,65"
+Tasa de caída de pacientes en el servicio de urgencias,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202112,"28,00","38.405,00","0,73"
+Tasa de caída de pacientes en el servicio de urgencias,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202203,"52,00","22.770,00","2,28"
+Tasa de caída de pacientes en el servicio de urgencias,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202206,"57,00","37.941,00","1,50"
+Tasa de caída de pacientes en el servicio de urgencias,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202209,"43,00","55.871,00","0,77"
+Tasa de caída de pacientes en el servicio de urgencias,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202212,"45,00","37.291,00","1,21"
+

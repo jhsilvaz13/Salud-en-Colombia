@@ -1,0 +1,19 @@
+﻿ExecutionTime
+4/4/2023 5:50:38 AM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox2
+Tasa de mortalidad perinatal,50,50 - Meta,00000,TOTAL,Total,1000,Por 1.000 nacimientos,201606,"114,00","7.939,00","14,36"
+Tasa de mortalidad perinatal,50,50 - Meta,00000,TOTAL,Total,1000,Por 1.000 nacimientos,201612,"102,00","7.781,00","13,11"
+Tasa de mortalidad perinatal,50,50 - Meta,00000,TOTAL,Total,1000,Por 1.000 nacimientos,201706,"99,00","7.956,00","12,44"
+Tasa de mortalidad perinatal,50,50 - Meta,00000,TOTAL,Total,1000,Por 1.000 nacimientos,201712,"102,00","7.992,00","12,76"
+Tasa de mortalidad perinatal,50,50 - Meta,00000,TOTAL,Total,1000,Por 1.000 nacimientos,201806,"70,00","7.512,00","9,32"
+Tasa de mortalidad perinatal,50,50 - Meta,00000,TOTAL,Total,1000,Por 1.000 nacimientos,201812,"102,00","7.801,00","13,08"
+Tasa de mortalidad perinatal,50,50 - Meta,00000,TOTAL,Total,1000,Por 1.000 nacimientos,201906,"79,00","7.420,00","10,65"
+Tasa de mortalidad perinatal,50,50 - Meta,00000,TOTAL,Total,1000,Por 1.000 nacimientos,201912,"94,00","7.682,00","12,24"
+Tasa de mortalidad perinatal,50,50 - Meta,00000,TOTAL,Total,1000,Por 1.000 nacimientos,202006,"91,00","7.571,00","12,02"
+Tasa de mortalidad perinatal,50,50 - Meta,00000,TOTAL,Total,1000,Por 1.000 nacimientos,202012,"97,00","7.849,00","12,36"
+Tasa de mortalidad perinatal,50,50 - Meta,00000,TOTAL,Total,1000,Por 1.000 nacimientos,202106,"89,00","7.462,00","11,93"
+Tasa de mortalidad perinatal,50,50 - Meta,00000,TOTAL,Total,1000,Por 1.000 nacimientos,202112,"107,00","7.895,00","13,55"
+Tasa de mortalidad perinatal,50,50 - Meta,00000,TOTAL,Total,1000,Por 1.000 nacimientos,202206,"89,00","7.329,00","12,14"
+Tasa de mortalidad perinatal,50,50 - Meta,00000,TOTAL,Total,1000,Por 1.000 nacimientos,202212,"95,00","7.208,00","13,18"
+

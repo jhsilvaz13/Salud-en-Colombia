@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 10:08:02 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de hospitalización,54,Norte de Santander,00000,TOTAL,Total,N/A,1000,Tasa,201706,"192,00","39.370,00","4,88"
+Tasa de caída de pacientes en el servicio de hospitalización,54,Norte de Santander,00000,TOTAL,Total,N/A,1000,Tasa,201712,"152,00","57.285,00","2,65"
+Tasa de caída de pacientes en el servicio de hospitalización,54,Norte de Santander,00000,TOTAL,Total,N/A,1000,Tasa,201806,"179,00","79.134,00","2,26"
+Tasa de caída de pacientes en el servicio de hospitalización,54,Norte de Santander,00000,TOTAL,Total,N/A,1000,Tasa,201812,"144,00","108.137,00","1,33"
+Tasa de caída de pacientes en el servicio de hospitalización,54,Norte de Santander,00000,TOTAL,Total,N/A,1000,Tasa,201906,"182,00","131.297,00","1,39"
+Tasa de caída de pacientes en el servicio de hospitalización,54,Norte de Santander,00000,TOTAL,Total,N/A,1000,Tasa,201912,"171,00","121.055,00","1,41"
+Tasa de caída de pacientes en el servicio de hospitalización,54,Norte de Santander,00000,TOTAL,Total,N/A,1000,Tasa,202003,"43,00","64.192,00","0,67"
+Tasa de caída de pacientes en el servicio de hospitalización,54,Norte de Santander,00000,TOTAL,Total,N/A,1000,Tasa,202006,"83,00","130.698,00","0,64"
+Tasa de caída de pacientes en el servicio de hospitalización,54,Norte de Santander,00000,TOTAL,Total,N/A,1000,Tasa,202009,"103,00","42.553,00","2,42"
+Tasa de caída de pacientes en el servicio de hospitalización,54,Norte de Santander,00000,TOTAL,Total,N/A,1000,Tasa,202012,"67,00","146.192,00","0,46"
+Tasa de caída de pacientes en el servicio de hospitalización,54,Norte de Santander,00000,TOTAL,Total,N/A,1000,Tasa,202103,"38,00","22.401,00","1,70"
+Tasa de caída de pacientes en el servicio de hospitalización,54,Norte de Santander,00000,TOTAL,Total,N/A,1000,Tasa,202106,"75,00","36.469,00","2,06"
+Tasa de caída de pacientes en el servicio de hospitalización,54,Norte de Santander,00000,TOTAL,Total,N/A,1000,Tasa,202109,"76,00","52.070,00","1,46"
+Tasa de caída de pacientes en el servicio de hospitalización,54,Norte de Santander,00000,TOTAL,Total,N/A,1000,Tasa,202112,"47,00","43.337,00","1,08"
+Tasa de caída de pacientes en el servicio de hospitalización,54,Norte de Santander,00000,TOTAL,Total,N/A,1000,Tasa,202203,"99,00","71.452,00","1,39"
+Tasa de caída de pacientes en el servicio de hospitalización,54,Norte de Santander,00000,TOTAL,Total,N/A,1000,Tasa,202206,"90,00","68.102,00","1,32"
+Tasa de caída de pacientes en el servicio de hospitalización,54,Norte de Santander,00000,TOTAL,Total,N/A,1000,Tasa,202209,"86,00","103.060,00","0,83"
+Tasa de caída de pacientes en el servicio de hospitalización,54,Norte de Santander,00000,TOTAL,Total,N/A,1000,Tasa,202212,"82,00","48.112,00","1,70"
+

@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/1/2023 10:39:44 AM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de consulta externa,08,Atlántico,00000,TOTAL,Total,N/A,1000,Tasa,201706,"71,00","1.149.823,00","0,06"
+Tasa de caída de pacientes en el servicio de consulta externa,08,Atlántico,00000,TOTAL,Total,N/A,1000,Tasa,201712,"36,00","1.208.157,00","0,03"
+Tasa de caída de pacientes en el servicio de consulta externa,08,Atlántico,00000,TOTAL,Total,N/A,1000,Tasa,201806,"55,00","1.260.494,00","0,04"
+Tasa de caída de pacientes en el servicio de consulta externa,08,Atlántico,00000,TOTAL,Total,N/A,1000,Tasa,201812,"38,00","1.535.971,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,08,Atlántico,00000,TOTAL,Total,N/A,1000,Tasa,201906,"41,00","1.822.855,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,08,Atlántico,00000,TOTAL,Total,N/A,1000,Tasa,201912,"51,00","1.912.940,00","0,03"
+Tasa de caída de pacientes en el servicio de consulta externa,08,Atlántico,00000,TOTAL,Total,N/A,1000,Tasa,202003,"16,00","1.160.117,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,08,Atlántico,00000,TOTAL,Total,N/A,1000,Tasa,202006,"3,00","648.721,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,08,Atlántico,00000,TOTAL,Total,N/A,1000,Tasa,202009,"5,00","765.033,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,08,Atlántico,00000,TOTAL,Total,N/A,1000,Tasa,202012,"11,00","1.037.999,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,08,Atlántico,00000,TOTAL,Total,N/A,1000,Tasa,202103,"8,00","1.001.121,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,08,Atlántico,00000,TOTAL,Total,N/A,1000,Tasa,202106,"16,00","853.122,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,08,Atlántico,00000,TOTAL,Total,N/A,1000,Tasa,202109,"10,00","1.185.556,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,08,Atlántico,00000,TOTAL,Total,N/A,1000,Tasa,202112,"8,00","885.584,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,08,Atlántico,00000,TOTAL,Total,N/A,1000,Tasa,202203,"9,00","566.864,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,08,Atlántico,00000,TOTAL,Total,N/A,1000,Tasa,202206,"14,00","1.178.821,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,08,Atlántico,00000,TOTAL,Total,N/A,1000,Tasa,202209,"14,00","1.297.766,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,08,Atlántico,00000,TOTAL,Total,N/A,1000,Tasa,202212,"22,00","1.037.970,00","0,02"
+

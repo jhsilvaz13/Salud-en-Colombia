@@ -1,0 +1,12 @@
+﻿ExecutionTime
+4/3/2023 1:29:39 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox2
+"Proporción de personas con Diabetes Mellitus, estudiadas para Enfermedad Renal Crónica(ERC)",25,25 - Cundinamarca,00000,TOTAL,Total,100,Porcentaje,2015,"16.423,00","34.857,00","47,12"
+"Proporción de personas con Diabetes Mellitus, estudiadas para Enfermedad Renal Crónica(ERC)",25,25 - Cundinamarca,00000,TOTAL,Total,100,Porcentaje,2016,"18.719,00","35.985,00","52,02"
+"Proporción de personas con Diabetes Mellitus, estudiadas para Enfermedad Renal Crónica(ERC)",25,25 - Cundinamarca,00000,TOTAL,Total,100,Porcentaje,2017,"19.801,00","35.414,00","55,91"
+"Proporción de personas con Diabetes Mellitus, estudiadas para Enfermedad Renal Crónica(ERC)",25,25 - Cundinamarca,00000,TOTAL,Total,100,Porcentaje,2018,"28.240,00","46.599,00","60,60"
+"Proporción de personas con Diabetes Mellitus, estudiadas para Enfermedad Renal Crónica(ERC)",25,25 - Cundinamarca,00000,TOTAL,Total,100,Porcentaje,2019,"16.180,00","36.720,00","44,06"
+"Proporción de personas con Diabetes Mellitus, estudiadas para Enfermedad Renal Crónica(ERC)",25,25 - Cundinamarca,00000,TOTAL,Total,100,Porcentaje,2020,"25.010,00","56.535,00","44,24"
+"Proporción de personas con Diabetes Mellitus, estudiadas para Enfermedad Renal Crónica(ERC)",25,25 - Cundinamarca,00000,TOTAL,Total,100,Porcentaje,2021,"45.354,00","65.971,00","68,75"
+

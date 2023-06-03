@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 10:01:28 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de hospitalización,50,Meta,00000,TOTAL,Total,N/A,1000,Tasa,201706,"39,00","19.360,00","2,01"
+Tasa de caída de pacientes en el servicio de hospitalización,50,Meta,00000,TOTAL,Total,N/A,1000,Tasa,201712,"72,00","33.423,00","2,15"
+Tasa de caída de pacientes en el servicio de hospitalización,50,Meta,00000,TOTAL,Total,N/A,1000,Tasa,201806,"52,00","64.571,00","0,81"
+Tasa de caída de pacientes en el servicio de hospitalización,50,Meta,00000,TOTAL,Total,N/A,1000,Tasa,201812,"60,00","107.742,00","0,56"
+Tasa de caída de pacientes en el servicio de hospitalización,50,Meta,00000,TOTAL,Total,N/A,1000,Tasa,201906,"100,00","91.550,00","1,09"
+Tasa de caída de pacientes en el servicio de hospitalización,50,Meta,00000,TOTAL,Total,N/A,1000,Tasa,201912,"109,00","100.109,00","1,09"
+Tasa de caída de pacientes en el servicio de hospitalización,50,Meta,00000,TOTAL,Total,N/A,1000,Tasa,202003,"25,00","88.899,00","0,28"
+Tasa de caída de pacientes en el servicio de hospitalización,50,Meta,00000,TOTAL,Total,N/A,1000,Tasa,202006,"32,00","140.690,00","0,23"
+Tasa de caída de pacientes en el servicio de hospitalización,50,Meta,00000,TOTAL,Total,N/A,1000,Tasa,202009,"29,00","66.825,00","0,43"
+Tasa de caída de pacientes en el servicio de hospitalización,50,Meta,00000,TOTAL,Total,N/A,1000,Tasa,202012,"41,00","68.441,00","0,60"
+Tasa de caída de pacientes en el servicio de hospitalización,50,Meta,00000,TOTAL,Total,N/A,1000,Tasa,202103,"49,00","44.057,00","1,11"
+Tasa de caída de pacientes en el servicio de hospitalización,50,Meta,00000,TOTAL,Total,N/A,1000,Tasa,202106,"43,00","25.882,00","1,66"
+Tasa de caída de pacientes en el servicio de hospitalización,50,Meta,00000,TOTAL,Total,N/A,1000,Tasa,202109,"60,00","48.982,00","1,22"
+Tasa de caída de pacientes en el servicio de hospitalización,50,Meta,00000,TOTAL,Total,N/A,1000,Tasa,202112,"37,00","38.522,00","0,96"
+Tasa de caída de pacientes en el servicio de hospitalización,50,Meta,00000,TOTAL,Total,N/A,1000,Tasa,202203,"64,00","16.080,00","3,98"
+Tasa de caída de pacientes en el servicio de hospitalización,50,Meta,00000,TOTAL,Total,N/A,1000,Tasa,202206,"48,00","63.640,00","0,75"
+Tasa de caída de pacientes en el servicio de hospitalización,50,Meta,00000,TOTAL,Total,N/A,1000,Tasa,202209,"60,00","74.530,00","0,81"
+Tasa de caída de pacientes en el servicio de hospitalización,50,Meta,00000,TOTAL,Total,N/A,1000,Tasa,202212,"46,00","27.755,00","1,66"
+

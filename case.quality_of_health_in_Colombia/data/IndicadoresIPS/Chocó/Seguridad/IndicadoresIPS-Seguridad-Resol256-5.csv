@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 9:29:15 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de consulta externa,27,Chocó,00000,TOTAL,Total,N/A,1000,Tasa,201706,"2,00","79.839,00","0,03"
+Tasa de caída de pacientes en el servicio de consulta externa,27,Chocó,00000,TOTAL,Total,N/A,1000,Tasa,201712,"1,00","83.150,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,27,Chocó,00000,TOTAL,Total,N/A,1000,Tasa,201806,"0,00","61.608,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,27,Chocó,00000,TOTAL,Total,N/A,1000,Tasa,201812,"1,00","102.576,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,27,Chocó,00000,TOTAL,Total,N/A,1000,Tasa,201906,"1,00","143.964,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,27,Chocó,00000,TOTAL,Total,N/A,1000,Tasa,201912,"0,00","112.286,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,27,Chocó,00000,TOTAL,Total,N/A,1000,Tasa,202003,"0,00","58.133,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,27,Chocó,00000,TOTAL,Total,N/A,1000,Tasa,202006,"0,00","29.686,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,27,Chocó,00000,TOTAL,Total,N/A,1000,Tasa,202009,"0,00","27.906,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,27,Chocó,00000,TOTAL,Total,N/A,1000,Tasa,202012,"0,00","44.501,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,27,Chocó,00000,TOTAL,Total,N/A,1000,Tasa,202103,"0,00","33.379,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,27,Chocó,00000,TOTAL,Total,N/A,1000,Tasa,202106,"0,00","40.319,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,27,Chocó,00000,TOTAL,Total,N/A,1000,Tasa,202109,"1,00","87.062,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,27,Chocó,00000,TOTAL,Total,N/A,1000,Tasa,202112,"13,00","63.716,00","0,20"
+Tasa de caída de pacientes en el servicio de consulta externa,27,Chocó,00000,TOTAL,Total,N/A,1000,Tasa,202203,"5,00","39.179,00","0,13"
+Tasa de caída de pacientes en el servicio de consulta externa,27,Chocó,00000,TOTAL,Total,N/A,1000,Tasa,202206,"0,00","120.691,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,27,Chocó,00000,TOTAL,Total,N/A,1000,Tasa,202209,"2,00","121.214,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,27,Chocó,00000,TOTAL,Total,N/A,1000,Tasa,202212,"1,00","141.641,00","0,01"
+

@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/1/2023 9:43:50 AM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de urgencias,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,201706,"270,00","281.792,00","0,96"
+Tasa de caída de pacientes en el servicio de urgencias,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,201712,"268,00","306.401,00","0,87"
+Tasa de caída de pacientes en el servicio de urgencias,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,201806,"363,00","476.279,00","0,76"
+Tasa de caída de pacientes en el servicio de urgencias,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,201812,"389,00","288.852,00","1,35"
+Tasa de caída de pacientes en el servicio de urgencias,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,201906,"379,00","351.493,00","1,08"
+Tasa de caída de pacientes en el servicio de urgencias,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,201912,"388,00","374.973,00","1,03"
+Tasa de caída de pacientes en el servicio de urgencias,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202003,"147,00","189.312,00","0,78"
+Tasa de caída de pacientes en el servicio de urgencias,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202006,"112,00","123.707,00","0,91"
+Tasa de caída de pacientes en el servicio de urgencias,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202009,"154,00","107.024,00","1,44"
+Tasa de caída de pacientes en el servicio de urgencias,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202012,"174,00","100.483,00","1,73"
+Tasa de caída de pacientes en el servicio de urgencias,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202103,"144,00","87.260,00","1,65"
+Tasa de caída de pacientes en el servicio de urgencias,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202106,"162,00","85.971,00","1,88"
+Tasa de caída de pacientes en el servicio de urgencias,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202109,"186,00","161.716,00","1,15"
+Tasa de caída de pacientes en el servicio de urgencias,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202112,"187,00","144.926,00","1,29"
+Tasa de caída de pacientes en el servicio de urgencias,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202203,"205,00","29.800,00","6,88"
+Tasa de caída de pacientes en el servicio de urgencias,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202206,"243,00","59.665,00","4,07"
+Tasa de caída de pacientes en el servicio de urgencias,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202209,"232,00","98.491,00","2,36"
+Tasa de caída de pacientes en el servicio de urgencias,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202212,"219,00","71.280,00","3,07"
+

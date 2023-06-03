@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 10:14:38 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de hospitalización,63,Quindio,00000,TOTAL,Total,N/A,1000,Tasa,201706,"172,00","22.130,00","7,77"
+Tasa de caída de pacientes en el servicio de hospitalización,63,Quindio,00000,TOTAL,Total,N/A,1000,Tasa,201712,"94,00","29.259,00","3,21"
+Tasa de caída de pacientes en el servicio de hospitalización,63,Quindio,00000,TOTAL,Total,N/A,1000,Tasa,201806,"46,00","38.166,00","1,21"
+Tasa de caída de pacientes en el servicio de hospitalización,63,Quindio,00000,TOTAL,Total,N/A,1000,Tasa,201812,"118,00","88.599,00","1,33"
+Tasa de caída de pacientes en el servicio de hospitalización,63,Quindio,00000,TOTAL,Total,N/A,1000,Tasa,201906,"195,00","98.461,00","1,98"
+Tasa de caída de pacientes en el servicio de hospitalización,63,Quindio,00000,TOTAL,Total,N/A,1000,Tasa,201912,"190,00","78.035,00","2,43"
+Tasa de caída de pacientes en el servicio de hospitalización,63,Quindio,00000,TOTAL,Total,N/A,1000,Tasa,202003,"63,00","43.511,00","1,45"
+Tasa de caída de pacientes en el servicio de hospitalización,63,Quindio,00000,TOTAL,Total,N/A,1000,Tasa,202006,"73,00","87.480,00","0,83"
+Tasa de caída de pacientes en el servicio de hospitalización,63,Quindio,00000,TOTAL,Total,N/A,1000,Tasa,202009,"70,00","34.781,00","2,01"
+Tasa de caída de pacientes en el servicio de hospitalización,63,Quindio,00000,TOTAL,Total,N/A,1000,Tasa,202012,"65,00","56.431,00","1,15"
+Tasa de caída de pacientes en el servicio de hospitalización,63,Quindio,00000,TOTAL,Total,N/A,1000,Tasa,202103,"68,00","19.748,00","3,44"
+Tasa de caída de pacientes en el servicio de hospitalización,63,Quindio,00000,TOTAL,Total,N/A,1000,Tasa,202106,"84,00","25.241,00","3,33"
+Tasa de caída de pacientes en el servicio de hospitalización,63,Quindio,00000,TOTAL,Total,N/A,1000,Tasa,202109,"96,00","44.006,00","2,18"
+Tasa de caída de pacientes en el servicio de hospitalización,63,Quindio,00000,TOTAL,Total,N/A,1000,Tasa,202112,"75,00","38.865,00","1,93"
+Tasa de caída de pacientes en el servicio de hospitalización,63,Quindio,00000,TOTAL,Total,N/A,1000,Tasa,202203,"85,00","27.833,00","3,05"
+Tasa de caída de pacientes en el servicio de hospitalización,63,Quindio,00000,TOTAL,Total,N/A,1000,Tasa,202206,"98,00","38.125,00","2,57"
+Tasa de caída de pacientes en el servicio de hospitalización,63,Quindio,00000,TOTAL,Total,N/A,1000,Tasa,202209,"93,00","55.327,00","1,68"
+Tasa de caída de pacientes en el servicio de hospitalización,63,Quindio,00000,TOTAL,Total,N/A,1000,Tasa,202212,"102,00","29.473,00","3,46"
+

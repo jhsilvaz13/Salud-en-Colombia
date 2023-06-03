@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/1/2023 9:44:10 AM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de consulta externa,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,201706,"154,00","3.229.954,00","0,05"
+Tasa de caída de pacientes en el servicio de consulta externa,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,201712,"165,00","3.586.447,00","0,05"
+Tasa de caída de pacientes en el servicio de consulta externa,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,201806,"148,00","3.638.158,00","0,04"
+Tasa de caída de pacientes en el servicio de consulta externa,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,201812,"224,00","4.396.184,00","0,05"
+Tasa de caída de pacientes en el servicio de consulta externa,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,201906,"222,00","5.118.409,00","0,04"
+Tasa de caída de pacientes en el servicio de consulta externa,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,201912,"193,00","5.185.981,00","0,04"
+Tasa de caída de pacientes en el servicio de consulta externa,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202003,"85,00","2.755.532,00","0,03"
+Tasa de caída de pacientes en el servicio de consulta externa,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202006,"26,00","1.434.974,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202009,"43,00","1.743.941,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202012,"68,00","1.911.435,00","0,04"
+Tasa de caída de pacientes en el servicio de consulta externa,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202103,"60,00","1.914.937,00","0,03"
+Tasa de caída de pacientes en el servicio de consulta externa,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202106,"46,00","1.931.969,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202109,"66,00","2.874.400,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202112,"66,00","2.500.427,00","0,03"
+Tasa de caída de pacientes en el servicio de consulta externa,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202203,"77,00","900.012,00","0,09"
+Tasa de caída de pacientes en el servicio de consulta externa,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202206,"82,00","1.616.138,00","0,05"
+Tasa de caída de pacientes en el servicio de consulta externa,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202209,"62,00","2.091.905,00","0,03"
+Tasa de caída de pacientes en el servicio de consulta externa,05,Antioquia,00000,TOTAL,Total,N/A,1000,Tasa,202212,"62,00","1.861.989,00","0,03"
+

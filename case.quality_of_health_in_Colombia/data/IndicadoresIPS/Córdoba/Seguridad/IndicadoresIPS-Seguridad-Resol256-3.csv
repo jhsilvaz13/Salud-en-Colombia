@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 9:37:40 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de hospitalización,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,201706,"39,00","72.753,00","0,54"
+Tasa de caída de pacientes en el servicio de hospitalización,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,201712,"63,00","95.240,00","0,66"
+Tasa de caída de pacientes en el servicio de hospitalización,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,201806,"35,00","109.931,00","0,32"
+Tasa de caída de pacientes en el servicio de hospitalización,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,201812,"67,00","211.488,00","0,32"
+Tasa de caída de pacientes en el servicio de hospitalización,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,201906,"76,00","126.729,00","0,60"
+Tasa de caída de pacientes en el servicio de hospitalización,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,201912,"76,00","149.115,00","0,51"
+Tasa de caída de pacientes en el servicio de hospitalización,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202003,"37,00","110.108,00","0,34"
+Tasa de caída de pacientes en el servicio de hospitalización,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202006,"29,00","161.828,00","0,18"
+Tasa de caída de pacientes en el servicio de hospitalización,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202009,"34,00","80.693,00","0,42"
+Tasa de caída de pacientes en el servicio de hospitalización,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202012,"29,00","254.131,00","0,11"
+Tasa de caída de pacientes en el servicio de hospitalización,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202103,"26,00","45.730,00","0,57"
+Tasa de caída de pacientes en el servicio de hospitalización,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202106,"57,00","45.200,00","1,26"
+Tasa de caída de pacientes en el servicio de hospitalización,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202109,"49,00","93.451,00","0,52"
+Tasa de caída de pacientes en el servicio de hospitalización,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202112,"50,00","42.980,00","1,16"
+Tasa de caída de pacientes en el servicio de hospitalización,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202203,"59,00","44.665,00","1,32"
+Tasa de caída de pacientes en el servicio de hospitalización,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202206,"61,00","116.058,00","0,53"
+Tasa de caída de pacientes en el servicio de hospitalización,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202209,"48,00","196.905,00","0,24"
+Tasa de caída de pacientes en el servicio de hospitalización,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202212,"82,00","73.718,00","1,11"
+

@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 11:23:46 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox11
+Tiempo promedio de espera para la asignación de cita de  Obstetricia,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Días,20170630,"746.880,00","62.840,00","11,89"
+Tiempo promedio de espera para la asignación de cita de  Obstetricia,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Días,20171231,"656.246,00","49.650,00","13,22"
+Tiempo promedio de espera para la asignación de cita de  Obstetricia,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Días,20180630,"665.881,00","64.956,00","10,25"
+Tiempo promedio de espera para la asignación de cita de  Obstetricia,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Días,20181231,"540.723,00","55.041,00","9,82"
+Tiempo promedio de espera para la asignación de cita de  Obstetricia,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Días,20190630,"561.329,00","67.671,00","8,29"
+Tiempo promedio de espera para la asignación de cita de  Obstetricia,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Días,20191231,"611.686,00","59.982,00","10,20"
+Tiempo promedio de espera para la asignación de cita de  Obstetricia,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Días,20200331,"413.634,00","43.234,00","9,57"
+Tiempo promedio de espera para la asignación de cita de  Obstetricia,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Días,20200630,"259.327,00","28.826,00","9,00"
+Tiempo promedio de espera para la asignación de cita de  Obstetricia,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Días,20200930,"348.036,00","39.423,00","8,83"
+Tiempo promedio de espera para la asignación de cita de  Obstetricia,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Días,20201231,"252.677,00","29.866,00","8,46"
+Tiempo promedio de espera para la asignación de cita de  Obstetricia,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Días,20210331,"349.544,00","33.640,00","10,39"
+Tiempo promedio de espera para la asignación de cita de  Obstetricia,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Días,20210630,"228.339,00","34.446,00","6,63"
+Tiempo promedio de espera para la asignación de cita de  Obstetricia,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Días,20210930,"213.985,00","27.148,00","7,88"
+Tiempo promedio de espera para la asignación de cita de  Obstetricia,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Días,20211231,"247.238,00","34.086,00","7,25"
+Tiempo promedio de espera para la asignación de cita de  Obstetricia,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Días,20220331,"255.500,00","32.361,00","7,90"
+Tiempo promedio de espera para la asignación de cita de  Obstetricia,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Días,20220630,"281.488,00","32.859,00","8,57"
+Tiempo promedio de espera para la asignación de cita de  Obstetricia,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Días,20220930,"368.464,00","39.918,00","9,23"
+Tiempo promedio de espera para la asignación de cita de  Obstetricia,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Días,20221231,"217.748,00","28.971,00","7,52"
+

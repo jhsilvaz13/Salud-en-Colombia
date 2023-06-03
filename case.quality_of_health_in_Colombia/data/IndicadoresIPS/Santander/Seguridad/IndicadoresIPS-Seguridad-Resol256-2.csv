@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 10:34:54 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),68,68 - Santander,00000,TOTAL,Total,UCIA,1000,Tasa,2016,"69,00","14.225,00","4,85"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),68,68 - Santander,00000,TOTAL,Total,UCIA,1000,Tasa,2017,"46,00","28.189,00","1,63"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),68,68 - Santander,00000,TOTAL,Total,UCIA,1000,Tasa,2018,"46,00","28.542,00","1,61"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),68,68 - Santander,00000,TOTAL,Total,UCIA,1000,Tasa,2019,"36,00","25.889,00","1,39"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),68,68 - Santander,00000,TOTAL,Total,UCIA,1000,Tasa,2020,"99,00","35.173,00","2,81"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),68,68 - Santander,00000,TOTAL,Total,UCIA,1000,Tasa,2021,"217,00","71.649,00","3,03"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),68,68 - Santander,00000,TOTAL,Total,UCIN,1000,Tasa,2016,"19,00","1.906,00","9,97"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),68,68 - Santander,00000,TOTAL,Total,UCIN,1000,Tasa,2017,"11,00","3.720,00","2,96"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),68,68 - Santander,00000,TOTAL,Total,UCIN,1000,Tasa,2018,"3,00","3.708,00","0,81"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),68,68 - Santander,00000,TOTAL,Total,UCIN,1000,Tasa,2019,"10,00","3.391,00","2,95"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),68,68 - Santander,00000,TOTAL,Total,UCIN,1000,Tasa,2020,"4,00","2.671,00","1,50"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),68,68 - Santander,00000,TOTAL,Total,UCIN,1000,Tasa,2021,"10,00","3.882,00","2,58"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),68,68 - Santander,00000,TOTAL,Total,UCIP,1000,Tasa,2016,"12,00","4.787,00","2,51"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),68,68 - Santander,00000,TOTAL,Total,UCIP,1000,Tasa,2017,"9,00","8.660,00","1,04"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),68,68 - Santander,00000,TOTAL,Total,UCIP,1000,Tasa,2018,"24,00","9.059,00","2,65"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),68,68 - Santander,00000,TOTAL,Total,UCIP,1000,Tasa,2019,"5,00","7.954,00","0,63"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),68,68 - Santander,00000,TOTAL,Total,UCIP,1000,Tasa,2020,"35,00","6.798,00","5,15"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),68,68 - Santander,00000,TOTAL,Total,UCIP,1000,Tasa,2021,"8,00","7.225,00","1,11"
+

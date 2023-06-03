@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 11:07:20 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de hospitalización,76,Valle del Cauca,00000,TOTAL,Total,N/A,1000,Tasa,201706,"417,00","402.458,00","1,04"
+Tasa de caída de pacientes en el servicio de hospitalización,76,Valle del Cauca,00000,TOTAL,Total,N/A,1000,Tasa,201712,"340,00","359.830,00","0,94"
+Tasa de caída de pacientes en el servicio de hospitalización,76,Valle del Cauca,00000,TOTAL,Total,N/A,1000,Tasa,201806,"447,00","276.779,00","1,62"
+Tasa de caída de pacientes en el servicio de hospitalización,76,Valle del Cauca,00000,TOTAL,Total,N/A,1000,Tasa,201812,"568,00","561.285,00","1,01"
+Tasa de caída de pacientes en el servicio de hospitalización,76,Valle del Cauca,00000,TOTAL,Total,N/A,1000,Tasa,201906,"552,00","582.515,00","0,95"
+Tasa de caída de pacientes en el servicio de hospitalización,76,Valle del Cauca,00000,TOTAL,Total,N/A,1000,Tasa,201912,"548,00","609.819,00","0,90"
+Tasa de caída de pacientes en el servicio de hospitalización,76,Valle del Cauca,00000,TOTAL,Total,N/A,1000,Tasa,202003,"283,00","288.179,00","0,98"
+Tasa de caída de pacientes en el servicio de hospitalización,76,Valle del Cauca,00000,TOTAL,Total,N/A,1000,Tasa,202006,"322,00","528.710,00","0,61"
+Tasa de caída de pacientes en el servicio de hospitalización,76,Valle del Cauca,00000,TOTAL,Total,N/A,1000,Tasa,202009,"281,00","218.486,00","1,29"
+Tasa de caída de pacientes en el servicio de hospitalización,76,Valle del Cauca,00000,TOTAL,Total,N/A,1000,Tasa,202012,"294,00","1.025.763,00","0,29"
+Tasa de caída de pacientes en el servicio de hospitalización,76,Valle del Cauca,00000,TOTAL,Total,N/A,1000,Tasa,202103,"285,00","129.363,00","2,20"
+Tasa de caída de pacientes en el servicio de hospitalización,76,Valle del Cauca,00000,TOTAL,Total,N/A,1000,Tasa,202106,"337,00","147.711,00","2,28"
+Tasa de caída de pacientes en el servicio de hospitalización,76,Valle del Cauca,00000,TOTAL,Total,N/A,1000,Tasa,202109,"319,00","250.582,00","1,27"
+Tasa de caída de pacientes en el servicio de hospitalización,76,Valle del Cauca,00000,TOTAL,Total,N/A,1000,Tasa,202112,"314,00","197.595,00","1,59"
+Tasa de caída de pacientes en el servicio de hospitalización,76,Valle del Cauca,00000,TOTAL,Total,N/A,1000,Tasa,202203,"279,00","159.372,00","1,75"
+Tasa de caída de pacientes en el servicio de hospitalización,76,Valle del Cauca,00000,TOTAL,Total,N/A,1000,Tasa,202206,"377,00","219.646,00","1,72"
+Tasa de caída de pacientes en el servicio de hospitalización,76,Valle del Cauca,00000,TOTAL,Total,N/A,1000,Tasa,202209,"276,00","297.427,00","0,93"
+Tasa de caída de pacientes en el servicio de hospitalización,76,Valle del Cauca,00000,TOTAL,Total,N/A,1000,Tasa,202212,"414,00","108.549,00","3,81"
+

@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 9:49:51 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de consulta externa,95,Guaviare,00000,TOTAL,Total,N/A,1000,Tasa,201706,"0,00","6.617,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,95,Guaviare,00000,TOTAL,Total,N/A,1000,Tasa,201712,"1,00","7.739,00","0,13"
+Tasa de caída de pacientes en el servicio de consulta externa,95,Guaviare,00000,TOTAL,Total,N/A,1000,Tasa,201806,"0,00","6.137,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,95,Guaviare,00000,TOTAL,Total,N/A,1000,Tasa,201812,"4,00","6.518,00","0,61"
+Tasa de caída de pacientes en el servicio de consulta externa,95,Guaviare,00000,TOTAL,Total,N/A,1000,Tasa,201906,"0,00","26.084,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,95,Guaviare,00000,TOTAL,Total,N/A,1000,Tasa,201912,"2,00","35.288,00","0,06"
+Tasa de caída de pacientes en el servicio de consulta externa,95,Guaviare,00000,TOTAL,Total,N/A,1000,Tasa,202003,"0,00","21.551,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,95,Guaviare,00000,TOTAL,Total,N/A,1000,Tasa,202006,"1,00","17.470,00","0,06"
+Tasa de caída de pacientes en el servicio de consulta externa,95,Guaviare,00000,TOTAL,Total,N/A,1000,Tasa,202009,"0,00","20.679,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,95,Guaviare,00000,TOTAL,Total,N/A,1000,Tasa,202012,"0,00","13.128,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,95,Guaviare,00000,TOTAL,Total,N/A,1000,Tasa,202103,"0,00","1.999,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,95,Guaviare,00000,TOTAL,Total,N/A,1000,Tasa,202106,"0,00","13.184,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,95,Guaviare,00000,TOTAL,Total,N/A,1000,Tasa,202109,"0,00","30.100,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,95,Guaviare,00000,TOTAL,Total,N/A,1000,Tasa,202112,"0,00","2.623,00","0,00"
+Tasa de caída de pacientes en el servicio de consulta externa,95,Guaviare,00000,TOTAL,Total,N/A,1000,Tasa,202203,"1,00","1.247,00","0,80"
+Tasa de caída de pacientes en el servicio de consulta externa,95,Guaviare,00000,TOTAL,Total,N/A,1000,Tasa,202206,"2,00","28.465,00","0,07"
+Tasa de caída de pacientes en el servicio de consulta externa,95,Guaviare,00000,TOTAL,Total,N/A,1000,Tasa,202209,"3,00","27.002,00","0,11"
+Tasa de caída de pacientes en el servicio de consulta externa,95,Guaviare,00000,TOTAL,Total,N/A,1000,Tasa,202212,"0,00","34.850,00","0,00"
+

@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 9:52:16 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),41,41 - Huila,00000,TOTAL,Total,UCIA,1000,Tasa,2016,"33,00","6.354,00","5,19"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),41,41 - Huila,00000,TOTAL,Total,UCIA,1000,Tasa,2017,"52,00","14.256,00","3,65"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),41,41 - Huila,00000,TOTAL,Total,UCIA,1000,Tasa,2018,"31,00","14.955,00","2,07"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),41,41 - Huila,00000,TOTAL,Total,UCIA,1000,Tasa,2019,"49,00","16.342,00","3,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),41,41 - Huila,00000,TOTAL,Total,UCIA,1000,Tasa,2020,"52,00","21.823,00","2,38"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),41,41 - Huila,00000,TOTAL,Total,UCIA,1000,Tasa,2021,"178,00","35.735,00","4,98"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),41,41 - Huila,00000,TOTAL,Total,UCIN,1000,Tasa,2016,"0,00","1.040,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),41,41 - Huila,00000,TOTAL,Total,UCIN,1000,Tasa,2017,"0,00","2.283,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),41,41 - Huila,00000,TOTAL,Total,UCIN,1000,Tasa,2018,"0,00","2.632,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),41,41 - Huila,00000,TOTAL,Total,UCIN,1000,Tasa,2019,"0,00","2.091,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),41,41 - Huila,00000,TOTAL,Total,UCIN,1000,Tasa,2020,"4,00","2.021,00","1,98"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),41,41 - Huila,00000,TOTAL,Total,UCIN,1000,Tasa,2021,"4,00","2.718,00","1,47"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),41,41 - Huila,00000,TOTAL,Total,UCIP,1000,Tasa,2016,"2,00","823,00","2,43"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),41,41 - Huila,00000,TOTAL,Total,UCIP,1000,Tasa,2017,"6,00","1.731,00","3,47"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),41,41 - Huila,00000,TOTAL,Total,UCIP,1000,Tasa,2018,"5,00","1.750,00","2,86"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),41,41 - Huila,00000,TOTAL,Total,UCIP,1000,Tasa,2019,"3,00","1.844,00","1,63"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),41,41 - Huila,00000,TOTAL,Total,UCIP,1000,Tasa,2020,"7,00","1.234,00","5,67"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),41,41 - Huila,00000,TOTAL,Total,UCIP,1000,Tasa,2021,"3,00","1.805,00","1,66"
+

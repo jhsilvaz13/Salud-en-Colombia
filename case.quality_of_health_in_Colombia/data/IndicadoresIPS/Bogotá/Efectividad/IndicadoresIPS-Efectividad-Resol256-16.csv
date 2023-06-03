@@ -1,0 +1,19 @@
+﻿ExecutionTime
+4/5/2023 9:47:18 AM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox2
+Tasa de mortalidad perinatal,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1000,Por 1.000 nacimientos,201606,"771,00","57.343,00","13,45"
+Tasa de mortalidad perinatal,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1000,Por 1.000 nacimientos,201612,"713,00","56.254,00","12,67"
+Tasa de mortalidad perinatal,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1000,Por 1.000 nacimientos,201706,"743,00","54.216,00","13,70"
+Tasa de mortalidad perinatal,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1000,Por 1.000 nacimientos,201712,"655,00","54.386,00","12,04"
+Tasa de mortalidad perinatal,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1000,Por 1.000 nacimientos,201806,"755,00","51.124,00","14,77"
+Tasa de mortalidad perinatal,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1000,Por 1.000 nacimientos,201812,"828,00","52.503,00","15,77"
+Tasa de mortalidad perinatal,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1000,Por 1.000 nacimientos,201906,"779,00","50.139,00","15,54"
+Tasa de mortalidad perinatal,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1000,Por 1.000 nacimientos,201912,"909,00","51.285,00","17,72"
+Tasa de mortalidad perinatal,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1000,Por 1.000 nacimientos,202006,"909,00","46.577,00","19,52"
+Tasa de mortalidad perinatal,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1000,Por 1.000 nacimientos,202012,"780,00","46.841,00","16,65"
+Tasa de mortalidad perinatal,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1000,Por 1.000 nacimientos,202106,"702,00","38.319,00","18,32"
+Tasa de mortalidad perinatal,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1000,Por 1.000 nacimientos,202112,"812,00","42.225,00","19,23"
+Tasa de mortalidad perinatal,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1000,Por 1.000 nacimientos,202206,"769,00","38.827,00","19,81"
+Tasa de mortalidad perinatal,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1000,Por 1.000 nacimientos,202212,"913,00","40.629,00","22,47"
+

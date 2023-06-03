@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 9:37:59 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de consulta externa,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,201706,"13,00","810.732,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,201712,"21,00","951.822,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,201806,"19,00","644.992,00","0,03"
+Tasa de caída de pacientes en el servicio de consulta externa,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,201812,"13,00","954.215,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,201906,"21,00","977.495,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,201912,"26,00","915.471,00","0,03"
+Tasa de caída de pacientes en el servicio de consulta externa,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202003,"17,00","595.099,00","0,03"
+Tasa de caída de pacientes en el servicio de consulta externa,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202006,"4,00","315.221,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202009,"4,00","335.695,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202012,"7,00","445.637,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202103,"9,00","355.272,00","0,03"
+Tasa de caída de pacientes en el servicio de consulta externa,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202106,"8,00","401.810,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202109,"9,00","681.471,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202112,"6,00","337.240,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202203,"3,00","242.905,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202206,"7,00","745.442,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202209,"10,00","774.963,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,23,Córdoba,00000,TOTAL,Total,N/A,1000,Tasa,202212,"3,00","734.706,00","0,00"
+

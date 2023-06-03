@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 10:35:05 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de hospitalización,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,201706,"257,00","128.114,00","2,01"
+Tasa de caída de pacientes en el servicio de hospitalización,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,201712,"247,00","128.901,00","1,92"
+Tasa de caída de pacientes en el servicio de hospitalización,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,201806,"270,00","118.723,00","2,27"
+Tasa de caída de pacientes en el servicio de hospitalización,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,201812,"264,00","241.011,00","1,10"
+Tasa de caída de pacientes en el servicio de hospitalización,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,201906,"269,00","244.623,00","1,10"
+Tasa de caída de pacientes en el servicio de hospitalización,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,201912,"322,00","257.343,00","1,25"
+Tasa de caída de pacientes en el servicio de hospitalización,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202003,"156,00","161.108,00","0,97"
+Tasa de caída de pacientes en el servicio de hospitalización,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202006,"155,00","253.979,00","0,61"
+Tasa de caída de pacientes en el servicio de hospitalización,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202009,"206,00","91.723,00","2,25"
+Tasa de caída de pacientes en el servicio de hospitalización,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202012,"232,00","299.936,00","0,77"
+Tasa de caída de pacientes en el servicio de hospitalización,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202103,"103,00","38.833,00","2,65"
+Tasa de caída de pacientes en el servicio de hospitalización,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202106,"169,00","58.712,00","2,88"
+Tasa de caída de pacientes en el servicio de hospitalización,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202109,"160,00","125.247,00","1,28"
+Tasa de caída de pacientes en el servicio de hospitalización,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202112,"138,00","72.367,00","1,91"
+Tasa de caída de pacientes en el servicio de hospitalización,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202203,"156,00","42.783,00","3,65"
+Tasa de caída de pacientes en el servicio de hospitalización,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202206,"133,00","126.312,00","1,05"
+Tasa de caída de pacientes en el servicio de hospitalización,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202209,"160,00","179.265,00","0,89"
+Tasa de caída de pacientes en el servicio de hospitalización,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202212,"152,00","81.071,00","1,87"
+

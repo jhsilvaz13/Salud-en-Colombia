@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 11:20:52 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de úlceras por presión.,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Por 1000 días paciente,201706,"701,00","929.992,00","0,75"
+Tasa de úlceras por presión.,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Por 1000 días paciente,201712,"840,00","1.016.247,00","0,83"
+Tasa de úlceras por presión.,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Por 1000 días paciente,201806,"813,00","728.401,00","1,12"
+Tasa de úlceras por presión.,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Por 1000 días paciente,201812,"958,00","1.102.656,00","0,87"
+Tasa de úlceras por presión.,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Por 1000 días paciente,201906,"958,00","1.154.999,00","0,83"
+Tasa de úlceras por presión.,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Por 1000 días paciente,201912,"785,00","1.207.132,00","0,65"
+Tasa de úlceras por presión.,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Por 1000 días paciente,202003,"316,00","881.784,00","0,36"
+Tasa de úlceras por presión.,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Por 1000 días paciente,202006,"402,00","1.208.436,00","0,33"
+Tasa de úlceras por presión.,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Por 1000 días paciente,202009,"932,00","407.831,00","2,29"
+Tasa de úlceras por presión.,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Por 1000 días paciente,202012,"772,00","936.233,00","0,82"
+Tasa de úlceras por presión.,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Por 1000 días paciente,202103,"805,00","187.711,00","4,29"
+Tasa de úlceras por presión.,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Por 1000 días paciente,202106,"1.356,00","182.450,00","7,43"
+Tasa de úlceras por presión.,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Por 1000 días paciente,202109,"1.039,00","468.503,00","2,22"
+Tasa de úlceras por presión.,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Por 1000 días paciente,202112,"506,00","442.486,00","1,14"
+Tasa de úlceras por presión.,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Por 1000 días paciente,202203,"550,00","193.407,00","2,84"
+Tasa de úlceras por presión.,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Por 1000 días paciente,202206,"524,00","445.419,00","1,18"
+Tasa de úlceras por presión.,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Por 1000 días paciente,202209,"636,00","400.922,00","1,59"
+Tasa de úlceras por presión.,11,"Bogotá, D.C.",00000,TOTAL,Total,N/A,1000,Por 1000 días paciente,202212,"509,00","238.393,00","2,14"
+

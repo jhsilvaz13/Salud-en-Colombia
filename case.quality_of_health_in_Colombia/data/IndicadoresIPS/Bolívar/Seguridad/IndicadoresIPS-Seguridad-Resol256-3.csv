@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/1/2023 5:46:02 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de hospitalización,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,201706,"198,00","115.048,00","1,72"
+Tasa de caída de pacientes en el servicio de hospitalización,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,201712,"197,00","142.321,00","1,38"
+Tasa de caída de pacientes en el servicio de hospitalización,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,201806,"285,00","121.560,00","2,34"
+Tasa de caída de pacientes en el servicio de hospitalización,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,201812,"125,00","275.623,00","0,45"
+Tasa de caída de pacientes en el servicio de hospitalización,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,201906,"198,00","229.959,00","0,86"
+Tasa de caída de pacientes en el servicio de hospitalización,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,201912,"309,00","212.878,00","1,45"
+Tasa de caída de pacientes en el servicio de hospitalización,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202003,"134,00","95.144,00","1,41"
+Tasa de caída de pacientes en el servicio de hospitalización,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202006,"146,00","191.981,00","0,76"
+Tasa de caída de pacientes en el servicio de hospitalización,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202009,"134,00","60.198,00","2,23"
+Tasa de caída de pacientes en el servicio de hospitalización,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202012,"147,00","122.519,00","1,20"
+Tasa de caída de pacientes en el servicio de hospitalización,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202103,"143,00","51.742,00","2,76"
+Tasa de caída de pacientes en el servicio de hospitalización,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202106,"140,00","48.075,00","2,91"
+Tasa de caída de pacientes en el servicio de hospitalización,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202109,"139,00","112.677,00","1,23"
+Tasa de caída de pacientes en el servicio de hospitalización,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202112,"106,00","79.038,00","1,34"
+Tasa de caída de pacientes en el servicio de hospitalización,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202203,"141,00","81.783,00","1,72"
+Tasa de caída de pacientes en el servicio de hospitalización,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202206,"134,00","158.491,00","0,85"
+Tasa de caída de pacientes en el servicio de hospitalización,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202209,"135,00","247.293,00","0,55"
+Tasa de caída de pacientes en el servicio de hospitalización,13,Bolívar,00000,TOTAL,Total,N/A,1000,Tasa,202212,"112,00","100.019,00","1,12"
+

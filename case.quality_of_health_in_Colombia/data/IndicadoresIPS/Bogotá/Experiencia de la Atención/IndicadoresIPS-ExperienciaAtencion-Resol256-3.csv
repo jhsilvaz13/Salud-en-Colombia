@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 11:22:43 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox11
+Tiempo promedio de espera para la atención del paciente clasificado como Triage 2 en el servicio de urgencias,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Minutos,20170630,"48.284.865,00","431.208,00","111,98"
+Tiempo promedio de espera para la atención del paciente clasificado como Triage 2 en el servicio de urgencias,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Minutos,20171231,"19.991.904,00","321.262,00","62,23"
+Tiempo promedio de espera para la atención del paciente clasificado como Triage 2 en el servicio de urgencias,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Minutos,20180630,"32.041.743,00","355.383,00","90,16"
+Tiempo promedio de espera para la atención del paciente clasificado como Triage 2 en el servicio de urgencias,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Minutos,20181231,"25.841.297,00","282.345,00","91,52"
+Tiempo promedio de espera para la atención del paciente clasificado como Triage 2 en el servicio de urgencias,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Minutos,20190630,"8.694.239,00","234.363,00","37,10"
+Tiempo promedio de espera para la atención del paciente clasificado como Triage 2 en el servicio de urgencias,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Minutos,20191231,"8.609.110,00","235.948,00","36,49"
+Tiempo promedio de espera para la atención del paciente clasificado como Triage 2 en el servicio de urgencias,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Minutos,20200331,"3.731.302,00","104.515,00","35,70"
+Tiempo promedio de espera para la atención del paciente clasificado como Triage 2 en el servicio de urgencias,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Minutos,20200630,"1.931.869,00","68.026,00","28,40"
+Tiempo promedio de espera para la atención del paciente clasificado como Triage 2 en el servicio de urgencias,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Minutos,20200930,"2.677.324,00","75.532,00","35,45"
+Tiempo promedio de espera para la atención del paciente clasificado como Triage 2 en el servicio de urgencias,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Minutos,20201231,"2.731.234,00","87.196,00","31,32"
+Tiempo promedio de espera para la atención del paciente clasificado como Triage 2 en el servicio de urgencias,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Minutos,20210331,"2.674.163,00","85.387,00","31,32"
+Tiempo promedio de espera para la atención del paciente clasificado como Triage 2 en el servicio de urgencias,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Minutos,20210630,"3.714.877,00","96.266,00","38,59"
+Tiempo promedio de espera para la atención del paciente clasificado como Triage 2 en el servicio de urgencias,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Minutos,20210930,"3.854.829,00","97.402,00","39,58"
+Tiempo promedio de espera para la atención del paciente clasificado como Triage 2 en el servicio de urgencias,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Minutos,20211231,"3.757.667,00","108.251,00","34,71"
+Tiempo promedio de espera para la atención del paciente clasificado como Triage 2 en el servicio de urgencias,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Minutos,20220331,"3.215.047,00","89.929,00","35,75"
+Tiempo promedio de espera para la atención del paciente clasificado como Triage 2 en el servicio de urgencias,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Minutos,20220630,"4.138.957,00","104.351,00","39,66"
+Tiempo promedio de espera para la atención del paciente clasificado como Triage 2 en el servicio de urgencias,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Minutos,20220930,"5.510.877,00","121.447,00","45,38"
+Tiempo promedio de espera para la atención del paciente clasificado como Triage 2 en el servicio de urgencias,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,1,Minutos,20221231,"4.183.003,00","113.361,00","36,90"
+

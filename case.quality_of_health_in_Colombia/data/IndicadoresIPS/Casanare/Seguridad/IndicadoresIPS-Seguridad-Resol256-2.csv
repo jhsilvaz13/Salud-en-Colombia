@@ -1,0 +1,20 @@
+﻿ExecutionTime
+4/2/2023 10:15:38 AM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),85,85 - Casanare,00000,TOTAL,Total,UCIA,1000,Tasa,2017,"33,00","1.828,00","18,05"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),85,85 - Casanare,00000,TOTAL,Total,UCIA,1000,Tasa,2018,"7,00","2.640,00","2,65"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),85,85 - Casanare,00000,TOTAL,Total,UCIA,1000,Tasa,2019,"15,00","1.753,00","8,56"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),85,85 - Casanare,00000,TOTAL,Total,UCIA,1000,Tasa,2020,"3,00","1.034,00","2,90"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),85,85 - Casanare,00000,TOTAL,Total,UCIA,1000,Tasa,2021,"73,00","5.609,00","13,01"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),85,85 - Casanare,00000,TOTAL,Total,UCIN,1000,Tasa,2017,"0,00","178,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),85,85 - Casanare,00000,TOTAL,Total,UCIN,1000,Tasa,2018,"0,00","205,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),85,85 - Casanare,00000,TOTAL,Total,UCIN,1000,Tasa,2019,"0,00","491,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),85,85 - Casanare,00000,TOTAL,Total,UCIN,1000,Tasa,2020,"2,00","393,00","5,09"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),85,85 - Casanare,00000,TOTAL,Total,UCIN,1000,Tasa,2021,"0,00","509,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),85,85 - Casanare,00000,TOTAL,Total,UCIP,1000,Tasa,2017,"0,00","170,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),85,85 - Casanare,00000,TOTAL,Total,UCIP,1000,Tasa,2018,"0,00","358,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),85,85 - Casanare,00000,TOTAL,Total,UCIP,1000,Tasa,2019,"1,00","413,00","2,42"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),85,85 - Casanare,00000,TOTAL,Total,UCIP,1000,Tasa,2020,"2,00","391,00","5,12"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),85,85 - Casanare,00000,TOTAL,Total,UCIP,1000,Tasa,2021,"0,00","263,00","0,00"
+

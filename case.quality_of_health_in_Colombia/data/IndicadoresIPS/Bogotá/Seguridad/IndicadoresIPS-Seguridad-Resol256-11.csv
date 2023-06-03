@@ -1,0 +1,16 @@
+﻿ExecutionTime
+4/7/2023 11:21:14 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Proporción de reingreso de pacientes al servicio de Urgencias en menos de 72 horas.,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,N/A,100,Porcentaje,201706,"2.715,00","316.830,00","0,86"
+Proporción de reingreso de pacientes al servicio de Urgencias en menos de 72 horas.,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,N/A,100,Porcentaje,201712,"2.639,00","333.011,00","0,79"
+Proporción de reingreso de pacientes al servicio de Urgencias en menos de 72 horas.,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,N/A,100,Porcentaje,201806,"2.876,00","345.728,00","0,83"
+Proporción de reingreso de pacientes al servicio de Urgencias en menos de 72 horas.,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,N/A,100,Porcentaje,201812,"2.611,00","319.797,00","0,82"
+Proporción de reingreso de pacientes al servicio de Urgencias en menos de 72 horas.,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,N/A,100,Porcentaje,201906,"2.520,00","330.440,00","0,76"
+Proporción de reingreso de pacientes al servicio de Urgencias en menos de 72 horas.,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,N/A,100,Porcentaje,201912,"2.220,00","292.392,00","0,76"
+Proporción de reingreso de pacientes al servicio de Urgencias en menos de 72 horas.,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,N/A,100,Porcentaje,202006,"2.447,00","258.315,00","0,95"
+Proporción de reingreso de pacientes al servicio de Urgencias en menos de 72 horas.,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,N/A,100,Porcentaje,202012,"1.473,00","197.043,00","0,75"
+Proporción de reingreso de pacientes al servicio de Urgencias en menos de 72 horas.,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,N/A,100,Porcentaje,202106,"1.367,00","189.078,00","0,72"
+Proporción de reingreso de pacientes al servicio de Urgencias en menos de 72 horas.,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,N/A,100,Porcentaje,202112,"1.298,00","200.987,00","0,65"
+Proporción de reingreso de pacientes al servicio de Urgencias en menos de 72 horas.,11,"11 - Bogotá, D.C.",00000,TOTAL,Total,N/A,100,Porcentaje,202206,"1.147,00","195.691,00","0,59"
+

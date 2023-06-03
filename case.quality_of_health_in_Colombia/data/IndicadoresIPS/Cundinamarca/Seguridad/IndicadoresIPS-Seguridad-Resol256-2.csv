@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 9:40:08 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),25,25 - Cundinamarca,00000,TOTAL,Total,UCIA,1000,Tasa,2016,"38,00","5.707,00","6,66"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),25,25 - Cundinamarca,00000,TOTAL,Total,UCIA,1000,Tasa,2017,"34,00","16.471,00","2,06"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),25,25 - Cundinamarca,00000,TOTAL,Total,UCIA,1000,Tasa,2018,"35,00","17.889,00","1,96"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),25,25 - Cundinamarca,00000,TOTAL,Total,UCIA,1000,Tasa,2019,"46,00","16.836,00","2,73"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),25,25 - Cundinamarca,00000,TOTAL,Total,UCIA,1000,Tasa,2020,"26,00","16.749,00","1,55"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),25,25 - Cundinamarca,00000,TOTAL,Total,UCIA,1000,Tasa,2021,"146,00","42.464,00","3,44"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),25,25 - Cundinamarca,00000,TOTAL,Total,UCIN,1000,Tasa,2016,"2,00","2.146,00","0,93"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),25,25 - Cundinamarca,00000,TOTAL,Total,UCIN,1000,Tasa,2017,"5,00","2.594,00","1,93"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),25,25 - Cundinamarca,00000,TOTAL,Total,UCIN,1000,Tasa,2018,"0,00","2.498,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),25,25 - Cundinamarca,00000,TOTAL,Total,UCIN,1000,Tasa,2019,"0,00","1.950,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),25,25 - Cundinamarca,00000,TOTAL,Total,UCIN,1000,Tasa,2020,"1,00","2.012,00","0,50"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),25,25 - Cundinamarca,00000,TOTAL,Total,UCIN,1000,Tasa,2021,"0,00","2.960,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),25,25 - Cundinamarca,00000,TOTAL,Total,UCIP,1000,Tasa,2016,"0,00","901,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),25,25 - Cundinamarca,00000,TOTAL,Total,UCIP,1000,Tasa,2017,"4,00","1.718,00","2,33"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),25,25 - Cundinamarca,00000,TOTAL,Total,UCIP,1000,Tasa,2018,"1,00","1.972,00","0,51"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),25,25 - Cundinamarca,00000,TOTAL,Total,UCIP,1000,Tasa,2019,"2,00","1.886,00","1,06"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),25,25 - Cundinamarca,00000,TOTAL,Total,UCIP,1000,Tasa,2020,"7,00","1.093,00","6,40"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),25,25 - Cundinamarca,00000,TOTAL,Total,UCIP,1000,Tasa,2021,"0,00","1.216,00","0,00"
+

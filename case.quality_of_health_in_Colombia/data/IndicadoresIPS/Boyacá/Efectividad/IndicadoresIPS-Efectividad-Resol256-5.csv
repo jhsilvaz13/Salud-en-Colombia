@@ -1,0 +1,12 @@
+﻿ExecutionTime
+4/1/2023 5:50:38 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox2
+"Proporción de personas con Hipertensión Arterial (HTA), estudiadas para Enfermedad Renal Crónica(ERC)",15,15 - Boyacá,00000,TOTAL,Total,100,Porcentaje,2015,"34.962,00","79.249,00","44,12"
+"Proporción de personas con Hipertensión Arterial (HTA), estudiadas para Enfermedad Renal Crónica(ERC)",15,15 - Boyacá,00000,TOTAL,Total,100,Porcentaje,2016,"39.558,00","82.701,00","47,83"
+"Proporción de personas con Hipertensión Arterial (HTA), estudiadas para Enfermedad Renal Crónica(ERC)",15,15 - Boyacá,00000,TOTAL,Total,100,Porcentaje,2017,"38.608,00","88.289,00","43,73"
+"Proporción de personas con Hipertensión Arterial (HTA), estudiadas para Enfermedad Renal Crónica(ERC)",15,15 - Boyacá,00000,TOTAL,Total,100,Porcentaje,2018,"52.372,00","88.032,00","59,49"
+"Proporción de personas con Hipertensión Arterial (HTA), estudiadas para Enfermedad Renal Crónica(ERC)",15,15 - Boyacá,00000,TOTAL,Total,100,Porcentaje,2019,"26.503,00","70.274,00","37,71"
+"Proporción de personas con Hipertensión Arterial (HTA), estudiadas para Enfermedad Renal Crónica(ERC)",15,15 - Boyacá,00000,TOTAL,Total,100,Porcentaje,2020,"28.933,00","99.986,00","28,94"
+"Proporción de personas con Hipertensión Arterial (HTA), estudiadas para Enfermedad Renal Crónica(ERC)",15,15 - Boyacá,00000,TOTAL,Total,100,Porcentaje,2021,"57.930,00","109.543,00","52,88"
+

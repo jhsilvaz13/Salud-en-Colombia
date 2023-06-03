@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 10:17:50 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de hospitalización,66,Risaralda,00000,TOTAL,Total,N/A,1000,Tasa,201706,"113,00","27.357,00","4,13"
+Tasa de caída de pacientes en el servicio de hospitalización,66,Risaralda,00000,TOTAL,Total,N/A,1000,Tasa,201712,"115,00","26.042,00","4,42"
+Tasa de caída de pacientes en el servicio de hospitalización,66,Risaralda,00000,TOTAL,Total,N/A,1000,Tasa,201806,"100,00","61.258,00","1,63"
+Tasa de caída de pacientes en el servicio de hospitalización,66,Risaralda,00000,TOTAL,Total,N/A,1000,Tasa,201812,"112,00","127.212,00","0,88"
+Tasa de caída de pacientes en el servicio de hospitalización,66,Risaralda,00000,TOTAL,Total,N/A,1000,Tasa,201906,"163,00","122.348,00","1,33"
+Tasa de caída de pacientes en el servicio de hospitalización,66,Risaralda,00000,TOTAL,Total,N/A,1000,Tasa,201912,"210,00","117.119,00","1,79"
+Tasa de caída de pacientes en el servicio de hospitalización,66,Risaralda,00000,TOTAL,Total,N/A,1000,Tasa,202003,"59,00","71.334,00","0,83"
+Tasa de caída de pacientes en el servicio de hospitalización,66,Risaralda,00000,TOTAL,Total,N/A,1000,Tasa,202006,"62,00","103.881,00","0,60"
+Tasa de caída de pacientes en el servicio de hospitalización,66,Risaralda,00000,TOTAL,Total,N/A,1000,Tasa,202009,"59,00","42.581,00","1,39"
+Tasa de caída de pacientes en el servicio de hospitalización,66,Risaralda,00000,TOTAL,Total,N/A,1000,Tasa,202012,"198,00","170.820,00","1,16"
+Tasa de caída de pacientes en el servicio de hospitalización,66,Risaralda,00000,TOTAL,Total,N/A,1000,Tasa,202103,"119,00","29.380,00","4,05"
+Tasa de caída de pacientes en el servicio de hospitalización,66,Risaralda,00000,TOTAL,Total,N/A,1000,Tasa,202106,"76,00","37.428,00","2,03"
+Tasa de caída de pacientes en el servicio de hospitalización,66,Risaralda,00000,TOTAL,Total,N/A,1000,Tasa,202109,"78,00","69.934,00","1,12"
+Tasa de caída de pacientes en el servicio de hospitalización,66,Risaralda,00000,TOTAL,Total,N/A,1000,Tasa,202112,"134,00","75.879,00","1,77"
+Tasa de caída de pacientes en el servicio de hospitalización,66,Risaralda,00000,TOTAL,Total,N/A,1000,Tasa,202203,"114,00","48.348,00","2,36"
+Tasa de caída de pacientes en el servicio de hospitalización,66,Risaralda,00000,TOTAL,Total,N/A,1000,Tasa,202206,"106,00","53.861,00","1,97"
+Tasa de caída de pacientes en el servicio de hospitalización,66,Risaralda,00000,TOTAL,Total,N/A,1000,Tasa,202209,"113,00","98.171,00","1,15"
+Tasa de caída de pacientes en el servicio de hospitalización,66,Risaralda,00000,TOTAL,Total,N/A,1000,Tasa,202212,"93,00","36.692,00","2,53"
+

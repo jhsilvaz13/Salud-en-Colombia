@@ -1,0 +1,15 @@
+﻿ExecutionTime
+4/2/2023 10:50:32 AM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de Incidencia de Infección del Tracto Urinario Asociada a Catéter (ISTU-AC),20,20 - Cesar,00000,TOTAL,Total,UCIA,1000,Tasa,2017,"1,00","732,00","1,37"
+Tasa de Incidencia de Infección del Tracto Urinario Asociada a Catéter (ISTU-AC),20,20 - Cesar,00000,TOTAL,Total,UCIA,1000,Tasa,2018,"33,00","20.922,00","1,58"
+Tasa de Incidencia de Infección del Tracto Urinario Asociada a Catéter (ISTU-AC),20,20 - Cesar,00000,TOTAL,Total,UCIA,1000,Tasa,2019,"38,00","21.981,00","1,73"
+Tasa de Incidencia de Infección del Tracto Urinario Asociada a Catéter (ISTU-AC),20,20 - Cesar,00000,TOTAL,Total,UCIA,1000,Tasa,2020,"15,00","14.955,00","1,00"
+Tasa de Incidencia de Infección del Tracto Urinario Asociada a Catéter (ISTU-AC),20,20 - Cesar,00000,TOTAL,Total,UCIA,1000,Tasa,2021,"54,00","23.456,00","2,30"
+Tasa de Incidencia de Infección del Tracto Urinario Asociada a Catéter (ISTU-AC),20,20 - Cesar,00000,TOTAL,Total,UCIP,1000,Tasa,2017,"1,00","26,00","38,46"
+Tasa de Incidencia de Infección del Tracto Urinario Asociada a Catéter (ISTU-AC),20,20 - Cesar,00000,TOTAL,Total,UCIP,1000,Tasa,2018,"2,00","1.186,00","1,69"
+Tasa de Incidencia de Infección del Tracto Urinario Asociada a Catéter (ISTU-AC),20,20 - Cesar,00000,TOTAL,Total,UCIP,1000,Tasa,2019,"0,00","1.557,00","0,00"
+Tasa de Incidencia de Infección del Tracto Urinario Asociada a Catéter (ISTU-AC),20,20 - Cesar,00000,TOTAL,Total,UCIP,1000,Tasa,2020,"7,00","630,00","11,11"
+Tasa de Incidencia de Infección del Tracto Urinario Asociada a Catéter (ISTU-AC),20,20 - Cesar,00000,TOTAL,Total,UCIP,1000,Tasa,2021,"4,00","834,00","4,80"
+

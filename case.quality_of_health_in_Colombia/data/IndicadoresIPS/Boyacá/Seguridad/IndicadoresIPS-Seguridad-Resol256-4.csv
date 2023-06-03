@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/1/2023 6:02:12 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de urgencias,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,201706,"19,00","43.802,00","0,43"
+Tasa de caída de pacientes en el servicio de urgencias,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,201712,"27,00","36.954,00","0,73"
+Tasa de caída de pacientes en el servicio de urgencias,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,201806,"37,00","80.584,00","0,46"
+Tasa de caída de pacientes en el servicio de urgencias,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,201812,"30,00","36.553,00","0,82"
+Tasa de caída de pacientes en el servicio de urgencias,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,201906,"35,00","39.819,00","0,88"
+Tasa de caída de pacientes en el servicio de urgencias,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,201912,"23,00","31.284,00","0,74"
+Tasa de caída de pacientes en el servicio de urgencias,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202003,"10,00","26.189,00","0,38"
+Tasa de caída de pacientes en el servicio de urgencias,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202006,"11,00","14.782,00","0,74"
+Tasa de caída de pacientes en el servicio de urgencias,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202009,"9,00","10.241,00","0,88"
+Tasa de caída de pacientes en el servicio de urgencias,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202012,"14,00","13.393,00","1,05"
+Tasa de caída de pacientes en el servicio de urgencias,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202103,"11,00","6.604,00","1,67"
+Tasa de caída de pacientes en el servicio de urgencias,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202106,"49,00","9.490,00","5,16"
+Tasa de caída de pacientes en el servicio de urgencias,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202109,"18,00","13.843,00","1,30"
+Tasa de caída de pacientes en el servicio de urgencias,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202112,"15,00","13.725,00","1,09"
+Tasa de caída de pacientes en el servicio de urgencias,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202203,"28,00","8.230,00","3,40"
+Tasa de caída de pacientes en el servicio de urgencias,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202206,"27,00","13.801,00","1,96"
+Tasa de caída de pacientes en el servicio de urgencias,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202209,"26,00","21.493,00","1,21"
+Tasa de caída de pacientes en el servicio de urgencias,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202212,"26,00","14.160,00","1,84"
+

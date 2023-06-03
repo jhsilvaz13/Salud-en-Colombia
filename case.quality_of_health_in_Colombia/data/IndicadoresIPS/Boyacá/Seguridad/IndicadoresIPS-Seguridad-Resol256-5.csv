@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/1/2023 6:02:22 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de consulta externa,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,201706,"24,00","411.570,00","0,06"
+Tasa de caída de pacientes en el servicio de consulta externa,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,201712,"26,00","442.325,00","0,06"
+Tasa de caída de pacientes en el servicio de consulta externa,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,201806,"26,00","398.524,00","0,07"
+Tasa de caída de pacientes en el servicio de consulta externa,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,201812,"29,00","480.586,00","0,06"
+Tasa de caída de pacientes en el servicio de consulta externa,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,201906,"19,00","688.308,00","0,03"
+Tasa de caída de pacientes en el servicio de consulta externa,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,201912,"11,00","622.341,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202003,"5,00","378.290,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202006,"4,00","267.805,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202009,"4,00","291.060,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202012,"15,00","310.645,00","0,05"
+Tasa de caída de pacientes en el servicio de consulta externa,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202103,"6,00","179.927,00","0,03"
+Tasa de caída de pacientes en el servicio de consulta externa,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202106,"920,00","279.343,00","3,29"
+Tasa de caída de pacientes en el servicio de consulta externa,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202109,"14,00","401.635,00","0,03"
+Tasa de caída de pacientes en el servicio de consulta externa,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202112,"12,00","245.499,00","0,05"
+Tasa de caída de pacientes en el servicio de consulta externa,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202203,"22,00","164.431,00","0,13"
+Tasa de caída de pacientes en el servicio de consulta externa,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202206,"5,00","426.295,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202209,"901,00","389.530,00","2,31"
+Tasa de caída de pacientes en el servicio de consulta externa,15,Boyacá,00000,TOTAL,Total,N/A,1000,Tasa,202212,"14,00","395.683,00","0,04"
+

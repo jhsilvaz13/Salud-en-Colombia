@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 11:15:53 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de hospitalización,99,Vichada,00000,TOTAL,Total,N/A,1000,Tasa,201706,"0,00","117,00","0,00"
+Tasa de caída de pacientes en el servicio de hospitalización,99,Vichada,00000,TOTAL,Total,N/A,1000,Tasa,201712,"0,00","615,00","0,00"
+Tasa de caída de pacientes en el servicio de hospitalización,99,Vichada,00000,TOTAL,Total,N/A,1000,Tasa,201806,"0,00","346,00","0,00"
+Tasa de caída de pacientes en el servicio de hospitalización,99,Vichada,00000,TOTAL,Total,N/A,1000,Tasa,201812,"0,00","1.799,00","0,00"
+Tasa de caída de pacientes en el servicio de hospitalización,99,Vichada,00000,TOTAL,Total,N/A,1000,Tasa,201906,"0,00","1.206,00","0,00"
+Tasa de caída de pacientes en el servicio de hospitalización,99,Vichada,00000,TOTAL,Total,N/A,1000,Tasa,201912,"0,00","1.360,00","0,00"
+Tasa de caída de pacientes en el servicio de hospitalización,99,Vichada,00000,TOTAL,Total,N/A,1000,Tasa,202003,"0,00","1.134,00","0,00"
+Tasa de caída de pacientes en el servicio de hospitalización,99,Vichada,00000,TOTAL,Total,N/A,1000,Tasa,202006,"0,00","3.290,00","0,00"
+Tasa de caída de pacientes en el servicio de hospitalización,99,Vichada,00000,TOTAL,Total,N/A,1000,Tasa,202009,"0,00","851,00","0,00"
+Tasa de caída de pacientes en el servicio de hospitalización,99,Vichada,00000,TOTAL,Total,N/A,1000,Tasa,202012,"0,00","2.067,00","0,00"
+Tasa de caída de pacientes en el servicio de hospitalización,99,Vichada,00000,TOTAL,Total,N/A,1000,Tasa,202103,"0,00","208,00","0,00"
+Tasa de caída de pacientes en el servicio de hospitalización,99,Vichada,00000,TOTAL,Total,N/A,1000,Tasa,202106,"2,00","594,00","3,37"
+Tasa de caída de pacientes en el servicio de hospitalización,99,Vichada,00000,TOTAL,Total,N/A,1000,Tasa,202109,"0,00","960,00","0,00"
+Tasa de caída de pacientes en el servicio de hospitalización,99,Vichada,00000,TOTAL,Total,N/A,1000,Tasa,202112,"1,00","34,00","29,41"
+Tasa de caída de pacientes en el servicio de hospitalización,99,Vichada,00000,TOTAL,Total,N/A,1000,Tasa,202203,"0,00","144,00","0,00"
+Tasa de caída de pacientes en el servicio de hospitalización,99,Vichada,00000,TOTAL,Total,N/A,1000,Tasa,202206,"2,00","1.251,00","1,60"
+Tasa de caída de pacientes en el servicio de hospitalización,99,Vichada,00000,TOTAL,Total,N/A,1000,Tasa,202209,"3,00","1.471,00","2,04"
+Tasa de caída de pacientes en el servicio de hospitalización,99,Vichada,00000,TOTAL,Total,N/A,1000,Tasa,202212,"0,00","729,00","0,00"
+

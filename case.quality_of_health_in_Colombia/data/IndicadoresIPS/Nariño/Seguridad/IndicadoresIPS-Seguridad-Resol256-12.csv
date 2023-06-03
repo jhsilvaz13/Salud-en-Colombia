@@ -1,0 +1,16 @@
+﻿ExecutionTime
+4/7/2023 10:06:03 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de reingreso de pacientes hospitalizados en menos de 15 días,50,50 - Meta,00000,TOTAL,Total,N/A,1000,Por 1000  egresos,201706,"54,00","3.179,00","16,99"
+Tasa de reingreso de pacientes hospitalizados en menos de 15 días,50,50 - Meta,00000,TOTAL,Total,N/A,1000,Por 1000  egresos,201712,"148,00","8.943,00","16,55"
+Tasa de reingreso de pacientes hospitalizados en menos de 15 días,50,50 - Meta,00000,TOTAL,Total,N/A,1000,Por 1000  egresos,201806,"231,00","17.774,00","13,00"
+Tasa de reingreso de pacientes hospitalizados en menos de 15 días,50,50 - Meta,00000,TOTAL,Total,N/A,1000,Por 1000  egresos,201812,"363,00","19.666,00","18,46"
+Tasa de reingreso de pacientes hospitalizados en menos de 15 días,50,50 - Meta,00000,TOTAL,Total,N/A,1000,Por 1000  egresos,201906,"738,00","21.206,00","34,80"
+Tasa de reingreso de pacientes hospitalizados en menos de 15 días,50,50 - Meta,00000,TOTAL,Total,N/A,1000,Por 1000  egresos,201912,"637,00","15.893,00","40,08"
+Tasa de reingreso de pacientes hospitalizados en menos de 15 días,50,50 - Meta,00000,TOTAL,Total,N/A,1000,Por 1000  egresos,202006,"1.032,00","21.420,00","48,18"
+Tasa de reingreso de pacientes hospitalizados en menos de 15 días,50,50 - Meta,00000,TOTAL,Total,N/A,1000,Por 1000  egresos,202012,"785,00","19.802,00","39,64"
+Tasa de reingreso de pacientes hospitalizados en menos de 15 días,50,50 - Meta,00000,TOTAL,Total,N/A,1000,Por 1000  egresos,202106,"502,00","18.816,00","26,68"
+Tasa de reingreso de pacientes hospitalizados en menos de 15 días,50,50 - Meta,00000,TOTAL,Total,N/A,1000,Por 1000  egresos,202112,"395,00","16.556,00","23,86"
+Tasa de reingreso de pacientes hospitalizados en menos de 15 días,50,50 - Meta,00000,TOTAL,Total,N/A,1000,Por 1000  egresos,202206,"509,00","17.073,00","29,81"
+

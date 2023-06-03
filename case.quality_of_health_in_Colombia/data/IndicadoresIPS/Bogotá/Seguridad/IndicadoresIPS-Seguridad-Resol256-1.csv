@@ -1,0 +1,17 @@
+﻿ExecutionTime
+4/7/2023 11:18:33 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de Incidencia de Infección del Tracto Urinario Asociada a Catéter (ISTU-AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIA,1000,Tasa,2016,"190,00","71.041,00","2,67"
+Tasa de Incidencia de Infección del Tracto Urinario Asociada a Catéter (ISTU-AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIA,1000,Tasa,2017,"265,00","137.511,00","1,93"
+Tasa de Incidencia de Infección del Tracto Urinario Asociada a Catéter (ISTU-AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIA,1000,Tasa,2018,"246,00","142.519,00","1,73"
+Tasa de Incidencia de Infección del Tracto Urinario Asociada a Catéter (ISTU-AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIA,1000,Tasa,2019,"280,00","148.128,00","1,89"
+Tasa de Incidencia de Infección del Tracto Urinario Asociada a Catéter (ISTU-AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIA,1000,Tasa,2020,"348,00","194.545,00","1,79"
+Tasa de Incidencia de Infección del Tracto Urinario Asociada a Catéter (ISTU-AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIA,1000,Tasa,2021,"710,00","324.661,00","2,19"
+Tasa de Incidencia de Infección del Tracto Urinario Asociada a Catéter (ISTU-AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIP,1000,Tasa,2016,"18,00","10.194,00","1,77"
+Tasa de Incidencia de Infección del Tracto Urinario Asociada a Catéter (ISTU-AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIP,1000,Tasa,2017,"31,00","20.907,00","1,48"
+Tasa de Incidencia de Infección del Tracto Urinario Asociada a Catéter (ISTU-AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIP,1000,Tasa,2018,"36,00","21.660,00","1,66"
+Tasa de Incidencia de Infección del Tracto Urinario Asociada a Catéter (ISTU-AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIP,1000,Tasa,2019,"38,00","24.682,00","1,54"
+Tasa de Incidencia de Infección del Tracto Urinario Asociada a Catéter (ISTU-AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIP,1000,Tasa,2020,"4,00","14.887,00","0,27"
+Tasa de Incidencia de Infección del Tracto Urinario Asociada a Catéter (ISTU-AC),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIP,1000,Tasa,2021,"30,00","21.317,00","1,41"
+

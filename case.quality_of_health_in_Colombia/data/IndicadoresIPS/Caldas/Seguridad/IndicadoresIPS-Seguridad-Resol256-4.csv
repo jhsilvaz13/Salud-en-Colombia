@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/1/2023 11:27:53 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de urgencias,17,Caldas,00000,TOTAL,Total,N/A,1000,Tasa,201706,"47,00","36.669,00","1,28"
+Tasa de caída de pacientes en el servicio de urgencias,17,Caldas,00000,TOTAL,Total,N/A,1000,Tasa,201712,"52,00","40.008,00","1,30"
+Tasa de caída de pacientes en el servicio de urgencias,17,Caldas,00000,TOTAL,Total,N/A,1000,Tasa,201806,"58,00","82.757,00","0,70"
+Tasa de caída de pacientes en el servicio de urgencias,17,Caldas,00000,TOTAL,Total,N/A,1000,Tasa,201812,"63,00","43.946,00","1,43"
+Tasa de caída de pacientes en el servicio de urgencias,17,Caldas,00000,TOTAL,Total,N/A,1000,Tasa,201906,"56,00","46.743,00","1,20"
+Tasa de caída de pacientes en el servicio de urgencias,17,Caldas,00000,TOTAL,Total,N/A,1000,Tasa,201912,"54,00","24.389,00","2,21"
+Tasa de caída de pacientes en el servicio de urgencias,17,Caldas,00000,TOTAL,Total,N/A,1000,Tasa,202003,"28,00","17.472,00","1,60"
+Tasa de caída de pacientes en el servicio de urgencias,17,Caldas,00000,TOTAL,Total,N/A,1000,Tasa,202006,"18,00","10.427,00","1,73"
+Tasa de caída de pacientes en el servicio de urgencias,17,Caldas,00000,TOTAL,Total,N/A,1000,Tasa,202009,"30,00","9.818,00","3,06"
+Tasa de caída de pacientes en el servicio de urgencias,17,Caldas,00000,TOTAL,Total,N/A,1000,Tasa,202012,"17,00","11.440,00","1,49"
+Tasa de caída de pacientes en el servicio de urgencias,17,Caldas,00000,TOTAL,Total,N/A,1000,Tasa,202103,"45,00","9.055,00","4,97"
+Tasa de caída de pacientes en el servicio de urgencias,17,Caldas,00000,TOTAL,Total,N/A,1000,Tasa,202106,"27,00","8.673,00","3,11"
+Tasa de caída de pacientes en el servicio de urgencias,17,Caldas,00000,TOTAL,Total,N/A,1000,Tasa,202109,"22,00","15.675,00","1,40"
+Tasa de caída de pacientes en el servicio de urgencias,17,Caldas,00000,TOTAL,Total,N/A,1000,Tasa,202112,"31,00","12.185,00","2,54"
+Tasa de caída de pacientes en el servicio de urgencias,17,Caldas,00000,TOTAL,Total,N/A,1000,Tasa,202203,"26,00","4.833,00","5,38"
+Tasa de caída de pacientes en el servicio de urgencias,17,Caldas,00000,TOTAL,Total,N/A,1000,Tasa,202206,"13,00","6.498,00","2,00"
+Tasa de caída de pacientes en el servicio de urgencias,17,Caldas,00000,TOTAL,Total,N/A,1000,Tasa,202209,"26,00","12.864,00","2,02"
+Tasa de caída de pacientes en el servicio de urgencias,17,Caldas,00000,TOTAL,Total,N/A,1000,Tasa,202212,"93,00","8.274,00","11,24"
+

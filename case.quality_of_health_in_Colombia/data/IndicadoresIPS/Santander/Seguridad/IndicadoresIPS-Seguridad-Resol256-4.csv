@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 10:35:16 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de urgencias,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,201706,"69,00","70.209,00","0,98"
+Tasa de caída de pacientes en el servicio de urgencias,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,201712,"89,00","66.769,00","1,33"
+Tasa de caída de pacientes en el servicio de urgencias,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,201806,"114,00","132.497,00","0,86"
+Tasa de caída de pacientes en el servicio de urgencias,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,201812,"112,00","73.936,00","1,51"
+Tasa de caída de pacientes en el servicio de urgencias,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,201906,"92,00","65.570,00","1,40"
+Tasa de caída de pacientes en el servicio de urgencias,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,201912,"106,00","68.594,00","1,55"
+Tasa de caída de pacientes en el servicio de urgencias,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202003,"56,00","47.247,00","1,19"
+Tasa de caída de pacientes en el servicio de urgencias,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202006,"56,00","32.677,00","1,71"
+Tasa de caída de pacientes en el servicio de urgencias,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202009,"58,00","20.825,00","2,79"
+Tasa de caída de pacientes en el servicio de urgencias,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202012,"45,00","24.869,00","1,81"
+Tasa de caída de pacientes en el servicio de urgencias,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202103,"30,00","15.125,00","1,98"
+Tasa de caída de pacientes en el servicio de urgencias,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202106,"56,00","21.005,00","2,67"
+Tasa de caída de pacientes en el servicio de urgencias,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202109,"63,00","33.130,00","1,90"
+Tasa de caída de pacientes en el servicio de urgencias,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202112,"56,00","33.619,00","1,67"
+Tasa de caída de pacientes en el servicio de urgencias,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202203,"59,00","15.350,00","3,84"
+Tasa de caída de pacientes en el servicio de urgencias,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202206,"40,00","26.633,00","1,50"
+Tasa de caída de pacientes en el servicio de urgencias,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202209,"64,00","49.144,00","1,30"
+Tasa de caída de pacientes en el servicio de urgencias,68,Santander,00000,TOTAL,Total,N/A,1000,Tasa,202212,"67,00","31.689,00","2,11"
+

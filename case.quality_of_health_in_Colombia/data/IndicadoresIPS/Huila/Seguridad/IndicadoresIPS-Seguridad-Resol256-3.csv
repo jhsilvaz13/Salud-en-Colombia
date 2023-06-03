@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 9:52:25 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de hospitalización,41,Huila,00000,TOTAL,Total,N/A,1000,Tasa,201706,"88,00","66.298,00","1,33"
+Tasa de caída de pacientes en el servicio de hospitalización,41,Huila,00000,TOTAL,Total,N/A,1000,Tasa,201712,"137,00","86.505,00","1,58"
+Tasa de caída de pacientes en el servicio de hospitalización,41,Huila,00000,TOTAL,Total,N/A,1000,Tasa,201806,"150,00","102.111,00","1,47"
+Tasa de caída de pacientes en el servicio de hospitalización,41,Huila,00000,TOTAL,Total,N/A,1000,Tasa,201812,"175,00","150.129,00","1,17"
+Tasa de caída de pacientes en el servicio de hospitalización,41,Huila,00000,TOTAL,Total,N/A,1000,Tasa,201906,"145,00","204.396,00","0,71"
+Tasa de caída de pacientes en el servicio de hospitalización,41,Huila,00000,TOTAL,Total,N/A,1000,Tasa,201912,"151,00","166.285,00","0,91"
+Tasa de caída de pacientes en el servicio de hospitalización,41,Huila,00000,TOTAL,Total,N/A,1000,Tasa,202003,"77,00","104.105,00","0,74"
+Tasa de caída de pacientes en el servicio de hospitalización,41,Huila,00000,TOTAL,Total,N/A,1000,Tasa,202006,"83,00","174.939,00","0,47"
+Tasa de caída de pacientes en el servicio de hospitalización,41,Huila,00000,TOTAL,Total,N/A,1000,Tasa,202009,"74,00","77.619,00","0,95"
+Tasa de caída de pacientes en el servicio de hospitalización,41,Huila,00000,TOTAL,Total,N/A,1000,Tasa,202012,"64,00","1.162.078,00","0,06"
+Tasa de caída de pacientes en el servicio de hospitalización,41,Huila,00000,TOTAL,Total,N/A,1000,Tasa,202103,"57,00","68.590,00","0,83"
+Tasa de caída de pacientes en el servicio de hospitalización,41,Huila,00000,TOTAL,Total,N/A,1000,Tasa,202106,"92,00","79.992,00","1,15"
+Tasa de caída de pacientes en el servicio de hospitalización,41,Huila,00000,TOTAL,Total,N/A,1000,Tasa,202109,"116,00","118.305,00","0,98"
+Tasa de caída de pacientes en el servicio de hospitalización,41,Huila,00000,TOTAL,Total,N/A,1000,Tasa,202112,"69,00","120.638,00","0,57"
+Tasa de caída de pacientes en el servicio de hospitalización,41,Huila,00000,TOTAL,Total,N/A,1000,Tasa,202203,"88,00","108.311,00","0,81"
+Tasa de caída de pacientes en el servicio de hospitalización,41,Huila,00000,TOTAL,Total,N/A,1000,Tasa,202206,"94,00","141.843,00","0,66"
+Tasa de caída de pacientes en el servicio de hospitalización,41,Huila,00000,TOTAL,Total,N/A,1000,Tasa,202209,"86,00","85.528,00","1,01"
+Tasa de caída de pacientes en el servicio de hospitalización,41,Huila,00000,TOTAL,Total,N/A,1000,Tasa,202212,"69,00","39.957,00","1,73"
+

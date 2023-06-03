@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/1/2023 9:43:04 AM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),05,05 - Antioquia,00000,TOTAL,Total,UCIA,1000,Tasa,2016,"108,00","33.915,00","3,18"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),05,05 - Antioquia,00000,TOTAL,Total,UCIA,1000,Tasa,2017,"139,00","63.824,00","2,18"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),05,05 - Antioquia,00000,TOTAL,Total,UCIA,1000,Tasa,2018,"146,00","67.553,00","2,16"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),05,05 - Antioquia,00000,TOTAL,Total,UCIA,1000,Tasa,2019,"131,00","70.336,00","1,86"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),05,05 - Antioquia,00000,TOTAL,Total,UCIA,1000,Tasa,2020,"424,00","100.715,00","4,21"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),05,05 - Antioquia,00000,TOTAL,Total,UCIA,1000,Tasa,2021,"743,00","187.868,00","3,95"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),05,05 - Antioquia,00000,TOTAL,Total,UCIN,1000,Tasa,2016,"19,00","4.939,00","3,85"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),05,05 - Antioquia,00000,TOTAL,Total,UCIN,1000,Tasa,2017,"20,00","11.297,00","1,77"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),05,05 - Antioquia,00000,TOTAL,Total,UCIN,1000,Tasa,2018,"1,00","12.434,00","0,08"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),05,05 - Antioquia,00000,TOTAL,Total,UCIN,1000,Tasa,2019,"32,00","11.544,00","2,77"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),05,05 - Antioquia,00000,TOTAL,Total,UCIN,1000,Tasa,2020,"17,00","8.056,00","2,11"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),05,05 - Antioquia,00000,TOTAL,Total,UCIN,1000,Tasa,2021,"35,00","10.614,00","3,30"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),05,05 - Antioquia,00000,TOTAL,Total,UCIP,1000,Tasa,2016,"16,00","4.160,00","3,85"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),05,05 - Antioquia,00000,TOTAL,Total,UCIP,1000,Tasa,2017,"22,00","8.566,00","2,57"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),05,05 - Antioquia,00000,TOTAL,Total,UCIP,1000,Tasa,2018,"33,00","8.312,00","3,97"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),05,05 - Antioquia,00000,TOTAL,Total,UCIP,1000,Tasa,2019,"18,00","8.612,00","2,09"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),05,05 - Antioquia,00000,TOTAL,Total,UCIP,1000,Tasa,2020,"28,00","6.161,00","4,54"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),05,05 - Antioquia,00000,TOTAL,Total,UCIP,1000,Tasa,2021,"14,00","6.419,00","2,18"
+

@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 11:19:39 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIA,1000,Tasa,2016,"101,00","48.916,00","2,06"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIA,1000,Tasa,2017,"110,00","94.843,00","1,16"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIA,1000,Tasa,2018,"77,00","101.349,00","0,76"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIA,1000,Tasa,2019,"111,00","96.178,00","1,15"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIA,1000,Tasa,2020,"270,00","156.483,00","1,73"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIA,1000,Tasa,2021,"1.674,00","270.361,00","6,19"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIN,1000,Tasa,2016,"8,00","10.497,00","0,76"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIN,1000,Tasa,2017,"5,00","22.096,00","0,23"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIN,1000,Tasa,2018,"0,00","22.912,00","0,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIN,1000,Tasa,2019,"14,00","24.066,00","0,58"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIN,1000,Tasa,2020,"6,00","16.257,00","0,37"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIN,1000,Tasa,2021,"6,00","24.577,00","0,24"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIP,1000,Tasa,2016,"10,00","9.952,00","1,00"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIP,1000,Tasa,2017,"31,00","20.805,00","1,49"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIP,1000,Tasa,2018,"14,00","21.098,00","0,66"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIP,1000,Tasa,2019,"13,00","23.360,00","0,56"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIP,1000,Tasa,2020,"58,00","13.291,00","4,36"
+Tasa de Incidencia de Neumonía Asociada a Ventilador Mecánico (NAV),11,"11 - Bogotá, D.C.",00000,TOTAL,Total,UCIP,1000,Tasa,2021,"10,00","19.379,00","0,52"
+

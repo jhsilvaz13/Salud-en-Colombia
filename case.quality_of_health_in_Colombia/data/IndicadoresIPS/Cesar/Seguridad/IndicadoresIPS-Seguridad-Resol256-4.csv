@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/2/2023 10:51:03 AM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de urgencias,20,Cesar,00000,TOTAL,Total,N/A,1000,Tasa,201706,"39,00","49.243,00","0,79"
+Tasa de caída de pacientes en el servicio de urgencias,20,Cesar,00000,TOTAL,Total,N/A,1000,Tasa,201712,"42,00","63.600,00","0,66"
+Tasa de caída de pacientes en el servicio de urgencias,20,Cesar,00000,TOTAL,Total,N/A,1000,Tasa,201806,"29,00","113.899,00","0,25"
+Tasa de caída de pacientes en el servicio de urgencias,20,Cesar,00000,TOTAL,Total,N/A,1000,Tasa,201812,"58,00","66.590,00","0,87"
+Tasa de caída de pacientes en el servicio de urgencias,20,Cesar,00000,TOTAL,Total,N/A,1000,Tasa,201906,"66,00","72.979,00","0,90"
+Tasa de caída de pacientes en el servicio de urgencias,20,Cesar,00000,TOTAL,Total,N/A,1000,Tasa,201912,"56,00","86.364,00","0,65"
+Tasa de caída de pacientes en el servicio de urgencias,20,Cesar,00000,TOTAL,Total,N/A,1000,Tasa,202003,"11,00","48.284,00","0,23"
+Tasa de caída de pacientes en el servicio de urgencias,20,Cesar,00000,TOTAL,Total,N/A,1000,Tasa,202006,"12,00","29.271,00","0,41"
+Tasa de caída de pacientes en el servicio de urgencias,20,Cesar,00000,TOTAL,Total,N/A,1000,Tasa,202009,"29,00","24.386,00","1,19"
+Tasa de caída de pacientes en el servicio de urgencias,20,Cesar,00000,TOTAL,Total,N/A,1000,Tasa,202012,"13,00","27.319,00","0,48"
+Tasa de caída de pacientes en el servicio de urgencias,20,Cesar,00000,TOTAL,Total,N/A,1000,Tasa,202103,"22,00","25.650,00","0,86"
+Tasa de caída de pacientes en el servicio de urgencias,20,Cesar,00000,TOTAL,Total,N/A,1000,Tasa,202106,"18,00","23.012,00","0,78"
+Tasa de caída de pacientes en el servicio de urgencias,20,Cesar,00000,TOTAL,Total,N/A,1000,Tasa,202109,"17,00","28.767,00","0,59"
+Tasa de caída de pacientes en el servicio de urgencias,20,Cesar,00000,TOTAL,Total,N/A,1000,Tasa,202112,"16,00","23.871,00","0,67"
+Tasa de caída de pacientes en el servicio de urgencias,20,Cesar,00000,TOTAL,Total,N/A,1000,Tasa,202203,"15,00","11.725,00","1,28"
+Tasa de caída de pacientes en el servicio de urgencias,20,Cesar,00000,TOTAL,Total,N/A,1000,Tasa,202206,"15,00","34.514,00","0,43"
+Tasa de caída de pacientes en el servicio de urgencias,20,Cesar,00000,TOTAL,Total,N/A,1000,Tasa,202209,"31,00","52.193,00","0,59"
+Tasa de caída de pacientes en el servicio de urgencias,20,Cesar,00000,TOTAL,Total,N/A,1000,Tasa,202212,"21,00","29.912,00","0,70"
+

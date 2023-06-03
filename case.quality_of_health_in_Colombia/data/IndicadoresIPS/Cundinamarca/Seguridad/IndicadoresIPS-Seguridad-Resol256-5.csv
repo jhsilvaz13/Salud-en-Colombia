@@ -1,0 +1,23 @@
+﻿ExecutionTime
+4/7/2023 9:40:37 PM
+
+Indicador,CodDepto,Departamento,CodMunicipio,Municipio,IPS,UCI,Factor,UnidadMedida,Fecha,Numerador,Denominador,Textbox6
+Tasa de caída de pacientes en el servicio de consulta externa,25,Cundinamarca,00000,TOTAL,Total,N/A,1000,Tasa,201706,"23,00","1.107.344,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,25,Cundinamarca,00000,TOTAL,Total,N/A,1000,Tasa,201712,"21,00","1.097.227,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,25,Cundinamarca,00000,TOTAL,Total,N/A,1000,Tasa,201806,"36,00","1.139.288,00","0,03"
+Tasa de caída de pacientes en el servicio de consulta externa,25,Cundinamarca,00000,TOTAL,Total,N/A,1000,Tasa,201812,"53,00","1.298.212,00","0,04"
+Tasa de caída de pacientes en el servicio de consulta externa,25,Cundinamarca,00000,TOTAL,Total,N/A,1000,Tasa,201906,"39,00","1.613.659,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,25,Cundinamarca,00000,TOTAL,Total,N/A,1000,Tasa,201912,"45,00","1.499.855,00","0,03"
+Tasa de caída de pacientes en el servicio de consulta externa,25,Cundinamarca,00000,TOTAL,Total,N/A,1000,Tasa,202003,"17,00","866.365,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,25,Cundinamarca,00000,TOTAL,Total,N/A,1000,Tasa,202006,"6,00","504.077,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,25,Cundinamarca,00000,TOTAL,Total,N/A,1000,Tasa,202009,"9,00","499.101,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,25,Cundinamarca,00000,TOTAL,Total,N/A,1000,Tasa,202012,"9,00","569.689,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,25,Cundinamarca,00000,TOTAL,Total,N/A,1000,Tasa,202103,"8,00","470.137,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,25,Cundinamarca,00000,TOTAL,Total,N/A,1000,Tasa,202106,"8,00","618.881,00","0,01"
+Tasa de caída de pacientes en el servicio de consulta externa,25,Cundinamarca,00000,TOTAL,Total,N/A,1000,Tasa,202109,"20,00","916.116,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,25,Cundinamarca,00000,TOTAL,Total,N/A,1000,Tasa,202112,"16,00","828.429,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,25,Cundinamarca,00000,TOTAL,Total,N/A,1000,Tasa,202203,"15,00","573.224,00","0,03"
+Tasa de caída de pacientes en el servicio de consulta externa,25,Cundinamarca,00000,TOTAL,Total,N/A,1000,Tasa,202206,"14,00","793.160,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,25,Cundinamarca,00000,TOTAL,Total,N/A,1000,Tasa,202209,"12,00","633.364,00","0,02"
+Tasa de caída de pacientes en el servicio de consulta externa,25,Cundinamarca,00000,TOTAL,Total,N/A,1000,Tasa,202212,"20,00","608.688,00","0,03"
+
